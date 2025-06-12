@@ -45,6 +45,8 @@ def nulls(df,count=0,share=0):
     nulls_list = with_nulls_share.to_frame(name='perc_nulos').reset_index().rename(columns={'index': 'var'})
     
     return nulls_list
+
+
 #%%
 file = 'spaces_hr_raw_data.csv'
 df = extract(file)
@@ -53,4 +55,5 @@ shape(df)
 nulls(df,1,1)
 
 df = df.drop(columns=['numberchildren', 'over18', 'yearsincurrentrole'])
+df.shape
 # %%
