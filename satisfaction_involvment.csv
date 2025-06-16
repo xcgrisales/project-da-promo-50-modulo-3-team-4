@@ -1023,259 +1023,259 @@ very_high,4,very_high,4,very_high,4,very_high,4,very_low,1,44441,"very_high, ver
 very_high,4,very_high,4,very_high,4,very_high,4,low,2,44442,"very_high, very_high, very_high, very_high, low"
 very_high,4,very_high,4,very_high,4,very_high,4,good,3,44443,"very_high, very_high, very_high, very_high, good"
 very_high,4,very_high,4,very_high,4,very_high,4,excellent,4,44444,"very_high, very_high, very_high, very_high, excellent"
-,,low,1,low,1,low,1,very_low,1,,
-,,low,1,low,1,low,1,low,2,,
-,,low,1,low,1,low,1,good,3,,
-,,low,1,low,1,low,1,excellent,4,,
-,,low,1,low,1,medium,2,very_low,1,,
-,,low,1,low,1,medium,2,low,2,,
-,,low,1,low,1,medium,2,good,3,,
-,,low,1,low,1,medium,2,excellent,4,,
-,,low,1,low,1,high,3,very_low,1,,
-,,low,1,low,1,high,3,low,2,,
-,,low,1,low,1,high,3,good,3,,
-,,low,1,low,1,high,3,excellent,4,,
-,,low,1,low,1,very_high,4,very_low,1,,
-,,low,1,low,1,very_high,4,low,2,,
-,,low,1,low,1,very_high,4,good,3,,
-,,low,1,low,1,very_high,4,excellent,4,,
-,,low,1,medium,2,low,1,very_low,1,,
-,,low,1,medium,2,low,1,low,2,,
-,,low,1,medium,2,low,1,good,3,,
-,,low,1,medium,2,low,1,excellent,4,,
-,,low,1,medium,2,medium,2,very_low,1,,
-,,low,1,medium,2,medium,2,low,2,,
-,,low,1,medium,2,medium,2,good,3,,
-,,low,1,medium,2,medium,2,excellent,4,,
-,,low,1,medium,2,high,3,very_low,1,,
-,,low,1,medium,2,high,3,low,2,,
-,,low,1,medium,2,high,3,good,3,,
-,,low,1,medium,2,high,3,excellent,4,,
-,,low,1,medium,2,very_high,4,very_low,1,,
-,,low,1,medium,2,very_high,4,low,2,,
-,,low,1,medium,2,very_high,4,good,3,,
-,,low,1,medium,2,very_high,4,excellent,4,,
-,,low,1,high,3,low,1,very_low,1,,
-,,low,1,high,3,low,1,low,2,,
-,,low,1,high,3,low,1,good,3,,
-,,low,1,high,3,low,1,excellent,4,,
-,,low,1,high,3,medium,2,very_low,1,,
-,,low,1,high,3,medium,2,low,2,,
-,,low,1,high,3,medium,2,good,3,,
-,,low,1,high,3,medium,2,excellent,4,,
-,,low,1,high,3,high,3,very_low,1,,
-,,low,1,high,3,high,3,low,2,,
-,,low,1,high,3,high,3,good,3,,
-,,low,1,high,3,high,3,excellent,4,,
-,,low,1,high,3,very_high,4,very_low,1,,
-,,low,1,high,3,very_high,4,low,2,,
-,,low,1,high,3,very_high,4,good,3,,
-,,low,1,high,3,very_high,4,excellent,4,,
-,,low,1,very_high,4,low,1,very_low,1,,
-,,low,1,very_high,4,low,1,low,2,,
-,,low,1,very_high,4,low,1,good,3,,
-,,low,1,very_high,4,low,1,excellent,4,,
-,,low,1,very_high,4,medium,2,very_low,1,,
-,,low,1,very_high,4,medium,2,low,2,,
-,,low,1,very_high,4,medium,2,good,3,,
-,,low,1,very_high,4,medium,2,excellent,4,,
-,,low,1,very_high,4,high,3,very_low,1,,
-,,low,1,very_high,4,high,3,low,2,,
-,,low,1,very_high,4,high,3,good,3,,
-,,low,1,very_high,4,high,3,excellent,4,,
-,,low,1,very_high,4,very_high,4,very_low,1,,
-,,low,1,very_high,4,very_high,4,low,2,,
-,,low,1,very_high,4,very_high,4,good,3,,
-,,low,1,very_high,4,very_high,4,excellent,4,,
-,,medium,2,low,1,low,1,very_low,1,,
-,,medium,2,low,1,low,1,low,2,,
-,,medium,2,low,1,low,1,good,3,,
-,,medium,2,low,1,low,1,excellent,4,,
-,,medium,2,low,1,medium,2,very_low,1,,
-,,medium,2,low,1,medium,2,low,2,,
-,,medium,2,low,1,medium,2,good,3,,
-,,medium,2,low,1,medium,2,excellent,4,,
-,,medium,2,low,1,high,3,very_low,1,,
-,,medium,2,low,1,high,3,low,2,,
-,,medium,2,low,1,high,3,good,3,,
-,,medium,2,low,1,high,3,excellent,4,,
-,,medium,2,low,1,very_high,4,very_low,1,,
-,,medium,2,low,1,very_high,4,low,2,,
-,,medium,2,low,1,very_high,4,good,3,,
-,,medium,2,low,1,very_high,4,excellent,4,,
-,,medium,2,medium,2,low,1,very_low,1,,
-,,medium,2,medium,2,low,1,low,2,,
-,,medium,2,medium,2,low,1,good,3,,
-,,medium,2,medium,2,low,1,excellent,4,,
-,,medium,2,medium,2,medium,2,very_low,1,,
-,,medium,2,medium,2,medium,2,low,2,,
-,,medium,2,medium,2,medium,2,good,3,,
-,,medium,2,medium,2,medium,2,excellent,4,,
-,,medium,2,medium,2,high,3,very_low,1,,
-,,medium,2,medium,2,high,3,low,2,,
-,,medium,2,medium,2,high,3,good,3,,
-,,medium,2,medium,2,high,3,excellent,4,,
-,,medium,2,medium,2,very_high,4,very_low,1,,
-,,medium,2,medium,2,very_high,4,low,2,,
-,,medium,2,medium,2,very_high,4,good,3,,
-,,medium,2,medium,2,very_high,4,excellent,4,,
-,,medium,2,high,3,low,1,very_low,1,,
-,,medium,2,high,3,low,1,low,2,,
-,,medium,2,high,3,low,1,good,3,,
-,,medium,2,high,3,low,1,excellent,4,,
-,,medium,2,high,3,medium,2,very_low,1,,
-,,medium,2,high,3,medium,2,low,2,,
-,,medium,2,high,3,medium,2,good,3,,
-,,medium,2,high,3,medium,2,excellent,4,,
-,,medium,2,high,3,high,3,very_low,1,,
-,,medium,2,high,3,high,3,low,2,,
-,,medium,2,high,3,high,3,good,3,,
-,,medium,2,high,3,high,3,excellent,4,,
-,,medium,2,high,3,very_high,4,very_low,1,,
-,,medium,2,high,3,very_high,4,low,2,,
-,,medium,2,high,3,very_high,4,good,3,,
-,,medium,2,high,3,very_high,4,excellent,4,,
-,,medium,2,very_high,4,low,1,very_low,1,,
-,,medium,2,very_high,4,low,1,low,2,,
-,,medium,2,very_high,4,low,1,good,3,,
-,,medium,2,very_high,4,low,1,excellent,4,,
-,,medium,2,very_high,4,medium,2,very_low,1,,
-,,medium,2,very_high,4,medium,2,low,2,,
-,,medium,2,very_high,4,medium,2,good,3,,
-,,medium,2,very_high,4,medium,2,excellent,4,,
-,,medium,2,very_high,4,high,3,very_low,1,,
-,,medium,2,very_high,4,high,3,low,2,,
-,,medium,2,very_high,4,high,3,good,3,,
-,,medium,2,very_high,4,high,3,excellent,4,,
-,,medium,2,very_high,4,very_high,4,very_low,1,,
-,,medium,2,very_high,4,very_high,4,low,2,,
-,,medium,2,very_high,4,very_high,4,good,3,,
-,,medium,2,very_high,4,very_high,4,excellent,4,,
-,,high,3,low,1,low,1,very_low,1,,
-,,high,3,low,1,low,1,low,2,,
-,,high,3,low,1,low,1,good,3,,
-,,high,3,low,1,low,1,excellent,4,,
-,,high,3,low,1,medium,2,very_low,1,,
-,,high,3,low,1,medium,2,low,2,,
-,,high,3,low,1,medium,2,good,3,,
-,,high,3,low,1,medium,2,excellent,4,,
-,,high,3,low,1,high,3,very_low,1,,
-,,high,3,low,1,high,3,low,2,,
-,,high,3,low,1,high,3,good,3,,
-,,high,3,low,1,high,3,excellent,4,,
-,,high,3,low,1,very_high,4,very_low,1,,
-,,high,3,low,1,very_high,4,low,2,,
-,,high,3,low,1,very_high,4,good,3,,
-,,high,3,low,1,very_high,4,excellent,4,,
-,,high,3,medium,2,low,1,very_low,1,,
-,,high,3,medium,2,low,1,low,2,,
-,,high,3,medium,2,low,1,good,3,,
-,,high,3,medium,2,low,1,excellent,4,,
-,,high,3,medium,2,medium,2,very_low,1,,
-,,high,3,medium,2,medium,2,low,2,,
-,,high,3,medium,2,medium,2,good,3,,
-,,high,3,medium,2,medium,2,excellent,4,,
-,,high,3,medium,2,high,3,very_low,1,,
-,,high,3,medium,2,high,3,low,2,,
-,,high,3,medium,2,high,3,good,3,,
-,,high,3,medium,2,high,3,excellent,4,,
-,,high,3,medium,2,very_high,4,very_low,1,,
-,,high,3,medium,2,very_high,4,low,2,,
-,,high,3,medium,2,very_high,4,good,3,,
-,,high,3,medium,2,very_high,4,excellent,4,,
-,,high,3,high,3,low,1,very_low,1,,
-,,high,3,high,3,low,1,low,2,,
-,,high,3,high,3,low,1,good,3,,
-,,high,3,high,3,low,1,excellent,4,,
-,,high,3,high,3,medium,2,very_low,1,,
-,,high,3,high,3,medium,2,low,2,,
-,,high,3,high,3,medium,2,good,3,,
-,,high,3,high,3,medium,2,excellent,4,,
-,,high,3,high,3,high,3,very_low,1,,
-,,high,3,high,3,high,3,low,2,,
-,,high,3,high,3,high,3,good,3,,
-,,high,3,high,3,high,3,excellent,4,,
-,,high,3,high,3,very_high,4,very_low,1,,
-,,high,3,high,3,very_high,4,low,2,,
-,,high,3,high,3,very_high,4,good,3,,
-,,high,3,high,3,very_high,4,excellent,4,,
-,,high,3,very_high,4,low,1,very_low,1,,
-,,high,3,very_high,4,low,1,low,2,,
-,,high,3,very_high,4,low,1,good,3,,
-,,high,3,very_high,4,low,1,excellent,4,,
-,,high,3,very_high,4,medium,2,very_low,1,,
-,,high,3,very_high,4,medium,2,low,2,,
-,,high,3,very_high,4,medium,2,good,3,,
-,,high,3,very_high,4,medium,2,excellent,4,,
-,,high,3,very_high,4,high,3,very_low,1,,
-,,high,3,very_high,4,high,3,low,2,,
-,,high,3,very_high,4,high,3,good,3,,
-,,high,3,very_high,4,high,3,excellent,4,,
-,,high,3,very_high,4,very_high,4,very_low,1,,
-,,high,3,very_high,4,very_high,4,low,2,,
-,,high,3,very_high,4,very_high,4,good,3,,
-,,high,3,very_high,4,very_high,4,excellent,4,,
-,,very_high,4,low,1,low,1,very_low,1,,
-,,very_high,4,low,1,low,1,low,2,,
-,,very_high,4,low,1,low,1,good,3,,
-,,very_high,4,low,1,low,1,excellent,4,,
-,,very_high,4,low,1,medium,2,very_low,1,,
-,,very_high,4,low,1,medium,2,low,2,,
-,,very_high,4,low,1,medium,2,good,3,,
-,,very_high,4,low,1,medium,2,excellent,4,,
-,,very_high,4,low,1,high,3,very_low,1,,
-,,very_high,4,low,1,high,3,low,2,,
-,,very_high,4,low,1,high,3,good,3,,
-,,very_high,4,low,1,high,3,excellent,4,,
-,,very_high,4,low,1,very_high,4,very_low,1,,
-,,very_high,4,low,1,very_high,4,low,2,,
-,,very_high,4,low,1,very_high,4,good,3,,
-,,very_high,4,low,1,very_high,4,excellent,4,,
-,,very_high,4,medium,2,low,1,very_low,1,,
-,,very_high,4,medium,2,low,1,low,2,,
-,,very_high,4,medium,2,low,1,good,3,,
-,,very_high,4,medium,2,low,1,excellent,4,,
-,,very_high,4,medium,2,medium,2,very_low,1,,
-,,very_high,4,medium,2,medium,2,low,2,,
-,,very_high,4,medium,2,medium,2,good,3,,
-,,very_high,4,medium,2,medium,2,excellent,4,,
-,,very_high,4,medium,2,high,3,very_low,1,,
-,,very_high,4,medium,2,high,3,low,2,,
-,,very_high,4,medium,2,high,3,good,3,,
-,,very_high,4,medium,2,high,3,excellent,4,,
-,,very_high,4,medium,2,very_high,4,very_low,1,,
-,,very_high,4,medium,2,very_high,4,low,2,,
-,,very_high,4,medium,2,very_high,4,good,3,,
-,,very_high,4,medium,2,very_high,4,excellent,4,,
-,,very_high,4,high,3,low,1,very_low,1,,
-,,very_high,4,high,3,low,1,low,2,,
-,,very_high,4,high,3,low,1,good,3,,
-,,very_high,4,high,3,low,1,excellent,4,,
-,,very_high,4,high,3,medium,2,very_low,1,,
-,,very_high,4,high,3,medium,2,low,2,,
-,,very_high,4,high,3,medium,2,good,3,,
-,,very_high,4,high,3,medium,2,excellent,4,,
-,,very_high,4,high,3,high,3,very_low,1,,
-,,very_high,4,high,3,high,3,low,2,,
-,,very_high,4,high,3,high,3,good,3,,
-,,very_high,4,high,3,high,3,excellent,4,,
-,,very_high,4,high,3,very_high,4,very_low,1,,
-,,very_high,4,high,3,very_high,4,low,2,,
-,,very_high,4,high,3,very_high,4,good,3,,
-,,very_high,4,high,3,very_high,4,excellent,4,,
-,,very_high,4,very_high,4,low,1,very_low,1,,
-,,very_high,4,very_high,4,low,1,low,2,,
-,,very_high,4,very_high,4,low,1,good,3,,
-,,very_high,4,very_high,4,low,1,excellent,4,,
-,,very_high,4,very_high,4,medium,2,very_low,1,,
-,,very_high,4,very_high,4,medium,2,low,2,,
-,,very_high,4,very_high,4,medium,2,good,3,,
-,,very_high,4,very_high,4,medium,2,excellent,4,,
-,,very_high,4,very_high,4,high,3,very_low,1,,
-,,very_high,4,very_high,4,high,3,low,2,,
-,,very_high,4,very_high,4,high,3,good,3,,
-,,very_high,4,very_high,4,high,3,excellent,4,,
-,,very_high,4,very_high,4,very_high,4,very_low,1,,
-,,very_high,4,very_high,4,very_high,4,low,2,,
-,,very_high,4,very_high,4,very_high,4,good,3,,
-,,very_high,4,very_high,4,very_high,4,excellent,4,,
+,,low,1,low,1,low,1,very_low,1,1111,"environment_missing ,low, low, low, very_low"
+,,low,1,low,1,low,1,low,2,1112,"environment_missing ,low, low, low, low"
+,,low,1,low,1,low,1,good,3,1113,"environment_missing ,low, low, low, good"
+,,low,1,low,1,low,1,excellent,4,1114,"environment_missing ,low, low, low, excellent"
+,,low,1,low,1,medium,2,very_low,1,1121,"environment_missing ,low, low, medium, very_low"
+,,low,1,low,1,medium,2,low,2,1122,"environment_missing ,low, low, medium, low"
+,,low,1,low,1,medium,2,good,3,1123,"environment_missing ,low, low, medium, good"
+,,low,1,low,1,medium,2,excellent,4,1124,"environment_missing ,low, low, medium, excellent"
+,,low,1,low,1,high,3,very_low,1,1131,"environment_missing ,low, low, high, very_low"
+,,low,1,low,1,high,3,low,2,1132,"environment_missing ,low, low, high, low"
+,,low,1,low,1,high,3,good,3,1133,"environment_missing ,low, low, high, good"
+,,low,1,low,1,high,3,excellent,4,1134,"environment_missing ,low, low, high, excellent"
+,,low,1,low,1,very_high,4,very_low,1,1141,"environment_missing ,low, low, very_high, very_low"
+,,low,1,low,1,very_high,4,low,2,1142,"environment_missing ,low, low, very_high, low"
+,,low,1,low,1,very_high,4,good,3,1143,"environment_missing ,low, low, very_high, good"
+,,low,1,low,1,very_high,4,excellent,4,1144,"environment_missing ,low, low, very_high, excellent"
+,,low,1,medium,2,low,1,very_low,1,1211,"environment_missing ,low, medium, low, very_low"
+,,low,1,medium,2,low,1,low,2,1212,"environment_missing ,low, medium, low, low"
+,,low,1,medium,2,low,1,good,3,1213,"environment_missing ,low, medium, low, good"
+,,low,1,medium,2,low,1,excellent,4,1214,"environment_missing ,low, medium, low, excellent"
+,,low,1,medium,2,medium,2,very_low,1,1221,"environment_missing ,low, medium, medium, very_low"
+,,low,1,medium,2,medium,2,low,2,1222,"environment_missing ,low, medium, medium, low"
+,,low,1,medium,2,medium,2,good,3,1223,"environment_missing ,low, medium, medium, good"
+,,low,1,medium,2,medium,2,excellent,4,1224,"environment_missing ,low, medium, medium, excellent"
+,,low,1,medium,2,high,3,very_low,1,1231,"environment_missing ,low, medium, high, very_low"
+,,low,1,medium,2,high,3,low,2,1232,"environment_missing ,low, medium, high, low"
+,,low,1,medium,2,high,3,good,3,1233,"environment_missing ,low, medium, high, good"
+,,low,1,medium,2,high,3,excellent,4,1234,"environment_missing ,low, medium, high, excellent"
+,,low,1,medium,2,very_high,4,very_low,1,1241,"environment_missing ,low, medium, very_high, very_low"
+,,low,1,medium,2,very_high,4,low,2,1242,"environment_missing ,low, medium, very_high, low"
+,,low,1,medium,2,very_high,4,good,3,1243,"environment_missing ,low, medium, very_high, good"
+,,low,1,medium,2,very_high,4,excellent,4,1244,"environment_missing ,low, medium, very_high, excellent"
+,,low,1,high,3,low,1,very_low,1,1311,"environment_missing ,low, high, low, very_low"
+,,low,1,high,3,low,1,low,2,1312,"environment_missing ,low, high, low, low"
+,,low,1,high,3,low,1,good,3,1313,"environment_missing ,low, high, low, good"
+,,low,1,high,3,low,1,excellent,4,1314,"environment_missing ,low, high, low, excellent"
+,,low,1,high,3,medium,2,very_low,1,1321,"environment_missing ,low, high, medium, very_low"
+,,low,1,high,3,medium,2,low,2,1322,"environment_missing ,low, high, medium, low"
+,,low,1,high,3,medium,2,good,3,1323,"environment_missing ,low, high, medium, good"
+,,low,1,high,3,medium,2,excellent,4,1324,"environment_missing ,low, high, medium, excellent"
+,,low,1,high,3,high,3,very_low,1,1331,"environment_missing ,low, high, high, very_low"
+,,low,1,high,3,high,3,low,2,1332,"environment_missing ,low, high, high, low"
+,,low,1,high,3,high,3,good,3,1333,"environment_missing ,low, high, high, good"
+,,low,1,high,3,high,3,excellent,4,1334,"environment_missing ,low, high, high, excellent"
+,,low,1,high,3,very_high,4,very_low,1,1341,"environment_missing ,low, high, very_high, very_low"
+,,low,1,high,3,very_high,4,low,2,1342,"environment_missing ,low, high, very_high, low"
+,,low,1,high,3,very_high,4,good,3,1343,"environment_missing ,low, high, very_high, good"
+,,low,1,high,3,very_high,4,excellent,4,1344,"environment_missing ,low, high, very_high, excellent"
+,,low,1,very_high,4,low,1,very_low,1,1411,"environment_missing ,low, very_high, low, very_low"
+,,low,1,very_high,4,low,1,low,2,1412,"environment_missing ,low, very_high, low, low"
+,,low,1,very_high,4,low,1,good,3,1413,"environment_missing ,low, very_high, low, good"
+,,low,1,very_high,4,low,1,excellent,4,1414,"environment_missing ,low, very_high, low, excellent"
+,,low,1,very_high,4,medium,2,very_low,1,1421,"environment_missing ,low, very_high, medium, very_low"
+,,low,1,very_high,4,medium,2,low,2,1422,"environment_missing ,low, very_high, medium, low"
+,,low,1,very_high,4,medium,2,good,3,1423,"environment_missing ,low, very_high, medium, good"
+,,low,1,very_high,4,medium,2,excellent,4,1424,"environment_missing ,low, very_high, medium, excellent"
+,,low,1,very_high,4,high,3,very_low,1,1431,"environment_missing ,low, very_high, high, very_low"
+,,low,1,very_high,4,high,3,low,2,1432,"environment_missing ,low, very_high, high, low"
+,,low,1,very_high,4,high,3,good,3,1433,"environment_missing ,low, very_high, high, good"
+,,low,1,very_high,4,high,3,excellent,4,1434,"environment_missing ,low, very_high, high, excellent"
+,,low,1,very_high,4,very_high,4,very_low,1,1441,"environment_missing ,low, very_high, very_high, very_low"
+,,low,1,very_high,4,very_high,4,low,2,1442,"environment_missing ,low, very_high, very_high, low"
+,,low,1,very_high,4,very_high,4,good,3,1443,"environment_missing ,low, very_high, very_high, good"
+,,low,1,very_high,4,very_high,4,excellent,4,1444,"environment_missing ,low, very_high, very_high, excellent"
+,,medium,2,low,1,low,1,very_low,1,2111,"environment_missing ,medium, low, low, very_low"
+,,medium,2,low,1,low,1,low,2,2112,"environment_missing ,medium, low, low, low"
+,,medium,2,low,1,low,1,good,3,2113,"environment_missing ,medium, low, low, good"
+,,medium,2,low,1,low,1,excellent,4,2114,"environment_missing ,medium, low, low, excellent"
+,,medium,2,low,1,medium,2,very_low,1,2121,"environment_missing ,medium, low, medium, very_low"
+,,medium,2,low,1,medium,2,low,2,2122,"environment_missing ,medium, low, medium, low"
+,,medium,2,low,1,medium,2,good,3,2123,"environment_missing ,medium, low, medium, good"
+,,medium,2,low,1,medium,2,excellent,4,2124,"environment_missing ,medium, low, medium, excellent"
+,,medium,2,low,1,high,3,very_low,1,2131,"environment_missing ,medium, low, high, very_low"
+,,medium,2,low,1,high,3,low,2,2132,"environment_missing ,medium, low, high, low"
+,,medium,2,low,1,high,3,good,3,2133,"environment_missing ,medium, low, high, good"
+,,medium,2,low,1,high,3,excellent,4,2134,"environment_missing ,medium, low, high, excellent"
+,,medium,2,low,1,very_high,4,very_low,1,2141,"environment_missing ,medium, low, very_high, very_low"
+,,medium,2,low,1,very_high,4,low,2,2142,"environment_missing ,medium, low, very_high, low"
+,,medium,2,low,1,very_high,4,good,3,2143,"environment_missing ,medium, low, very_high, good"
+,,medium,2,low,1,very_high,4,excellent,4,2144,"environment_missing ,medium, low, very_high, excellent"
+,,medium,2,medium,2,low,1,very_low,1,2211,"environment_missing ,medium, medium, low, very_low"
+,,medium,2,medium,2,low,1,low,2,2212,"environment_missing ,medium, medium, low, low"
+,,medium,2,medium,2,low,1,good,3,2213,"environment_missing ,medium, medium, low, good"
+,,medium,2,medium,2,low,1,excellent,4,2214,"environment_missing ,medium, medium, low, excellent"
+,,medium,2,medium,2,medium,2,very_low,1,2221,"environment_missing ,medium, medium, medium, very_low"
+,,medium,2,medium,2,medium,2,low,2,2222,"environment_missing ,medium, medium, medium, low"
+,,medium,2,medium,2,medium,2,good,3,2223,"environment_missing ,medium, medium, medium, good"
+,,medium,2,medium,2,medium,2,excellent,4,2224,"environment_missing ,medium, medium, medium, excellent"
+,,medium,2,medium,2,high,3,very_low,1,2231,"environment_missing ,medium, medium, high, very_low"
+,,medium,2,medium,2,high,3,low,2,2232,"environment_missing ,medium, medium, high, low"
+,,medium,2,medium,2,high,3,good,3,2233,"environment_missing ,medium, medium, high, good"
+,,medium,2,medium,2,high,3,excellent,4,2234,"environment_missing ,medium, medium, high, excellent"
+,,medium,2,medium,2,very_high,4,very_low,1,2241,"environment_missing ,medium, medium, very_high, very_low"
+,,medium,2,medium,2,very_high,4,low,2,2242,"environment_missing ,medium, medium, very_high, low"
+,,medium,2,medium,2,very_high,4,good,3,2243,"environment_missing ,medium, medium, very_high, good"
+,,medium,2,medium,2,very_high,4,excellent,4,2244,"environment_missing ,medium, medium, very_high, excellent"
+,,medium,2,high,3,low,1,very_low,1,2311,"environment_missing ,medium, high, low, very_low"
+,,medium,2,high,3,low,1,low,2,2312,"environment_missing ,medium, high, low, low"
+,,medium,2,high,3,low,1,good,3,2313,"environment_missing ,medium, high, low, good"
+,,medium,2,high,3,low,1,excellent,4,2314,"environment_missing ,medium, high, low, excellent"
+,,medium,2,high,3,medium,2,very_low,1,2321,"environment_missing ,medium, high, medium, very_low"
+,,medium,2,high,3,medium,2,low,2,2322,"environment_missing ,medium, high, medium, low"
+,,medium,2,high,3,medium,2,good,3,2323,"environment_missing ,medium, high, medium, good"
+,,medium,2,high,3,medium,2,excellent,4,2324,"environment_missing ,medium, high, medium, excellent"
+,,medium,2,high,3,high,3,very_low,1,2331,"environment_missing ,medium, high, high, very_low"
+,,medium,2,high,3,high,3,low,2,2332,"environment_missing ,medium, high, high, low"
+,,medium,2,high,3,high,3,good,3,2333,"environment_missing ,medium, high, high, good"
+,,medium,2,high,3,high,3,excellent,4,2334,"environment_missing ,medium, high, high, excellent"
+,,medium,2,high,3,very_high,4,very_low,1,2341,"environment_missing ,medium, high, very_high, very_low"
+,,medium,2,high,3,very_high,4,low,2,2342,"environment_missing ,medium, high, very_high, low"
+,,medium,2,high,3,very_high,4,good,3,2343,"environment_missing ,medium, high, very_high, good"
+,,medium,2,high,3,very_high,4,excellent,4,2344,"environment_missing ,medium, high, very_high, excellent"
+,,medium,2,very_high,4,low,1,very_low,1,2411,"environment_missing ,medium, very_high, low, very_low"
+,,medium,2,very_high,4,low,1,low,2,2412,"environment_missing ,medium, very_high, low, low"
+,,medium,2,very_high,4,low,1,good,3,2413,"environment_missing ,medium, very_high, low, good"
+,,medium,2,very_high,4,low,1,excellent,4,2414,"environment_missing ,medium, very_high, low, excellent"
+,,medium,2,very_high,4,medium,2,very_low,1,2421,"environment_missing ,medium, very_high, medium, very_low"
+,,medium,2,very_high,4,medium,2,low,2,2422,"environment_missing ,medium, very_high, medium, low"
+,,medium,2,very_high,4,medium,2,good,3,2423,"environment_missing ,medium, very_high, medium, good"
+,,medium,2,very_high,4,medium,2,excellent,4,2424,"environment_missing ,medium, very_high, medium, excellent"
+,,medium,2,very_high,4,high,3,very_low,1,2431,"environment_missing ,medium, very_high, high, very_low"
+,,medium,2,very_high,4,high,3,low,2,2432,"environment_missing ,medium, very_high, high, low"
+,,medium,2,very_high,4,high,3,good,3,2433,"environment_missing ,medium, very_high, high, good"
+,,medium,2,very_high,4,high,3,excellent,4,2434,"environment_missing ,medium, very_high, high, excellent"
+,,medium,2,very_high,4,very_high,4,very_low,1,2441,"environment_missing ,medium, very_high, very_high, very_low"
+,,medium,2,very_high,4,very_high,4,low,2,2442,"environment_missing ,medium, very_high, very_high, low"
+,,medium,2,very_high,4,very_high,4,good,3,2443,"environment_missing ,medium, very_high, very_high, good"
+,,medium,2,very_high,4,very_high,4,excellent,4,2444,"environment_missing ,medium, very_high, very_high, excellent"
+,,high,3,low,1,low,1,very_low,1,3111,"environment_missing ,high, low, low, very_low"
+,,high,3,low,1,low,1,low,2,3112,"environment_missing ,high, low, low, low"
+,,high,3,low,1,low,1,good,3,3113,"environment_missing ,high, low, low, good"
+,,high,3,low,1,low,1,excellent,4,3114,"environment_missing ,high, low, low, excellent"
+,,high,3,low,1,medium,2,very_low,1,3121,"environment_missing ,high, low, medium, very_low"
+,,high,3,low,1,medium,2,low,2,3122,"environment_missing ,high, low, medium, low"
+,,high,3,low,1,medium,2,good,3,3123,"environment_missing ,high, low, medium, good"
+,,high,3,low,1,medium,2,excellent,4,3124,"environment_missing ,high, low, medium, excellent"
+,,high,3,low,1,high,3,very_low,1,3131,"environment_missing ,high, low, high, very_low"
+,,high,3,low,1,high,3,low,2,3132,"environment_missing ,high, low, high, low"
+,,high,3,low,1,high,3,good,3,3133,"environment_missing ,high, low, high, good"
+,,high,3,low,1,high,3,excellent,4,3134,"environment_missing ,high, low, high, excellent"
+,,high,3,low,1,very_high,4,very_low,1,3141,"environment_missing ,high, low, very_high, very_low"
+,,high,3,low,1,very_high,4,low,2,3142,"environment_missing ,high, low, very_high, low"
+,,high,3,low,1,very_high,4,good,3,3143,"environment_missing ,high, low, very_high, good"
+,,high,3,low,1,very_high,4,excellent,4,3144,"environment_missing ,high, low, very_high, excellent"
+,,high,3,medium,2,low,1,very_low,1,3211,"environment_missing ,high, medium, low, very_low"
+,,high,3,medium,2,low,1,low,2,3212,"environment_missing ,high, medium, low, low"
+,,high,3,medium,2,low,1,good,3,3213,"environment_missing ,high, medium, low, good"
+,,high,3,medium,2,low,1,excellent,4,3214,"environment_missing ,high, medium, low, excellent"
+,,high,3,medium,2,medium,2,very_low,1,3221,"environment_missing ,high, medium, medium, very_low"
+,,high,3,medium,2,medium,2,low,2,3222,"environment_missing ,high, medium, medium, low"
+,,high,3,medium,2,medium,2,good,3,3223,"environment_missing ,high, medium, medium, good"
+,,high,3,medium,2,medium,2,excellent,4,3224,"environment_missing ,high, medium, medium, excellent"
+,,high,3,medium,2,high,3,very_low,1,3231,"environment_missing ,high, medium, high, very_low"
+,,high,3,medium,2,high,3,low,2,3232,"environment_missing ,high, medium, high, low"
+,,high,3,medium,2,high,3,good,3,3233,"environment_missing ,high, medium, high, good"
+,,high,3,medium,2,high,3,excellent,4,3234,"environment_missing ,high, medium, high, excellent"
+,,high,3,medium,2,very_high,4,very_low,1,3241,"environment_missing ,high, medium, very_high, very_low"
+,,high,3,medium,2,very_high,4,low,2,3242,"environment_missing ,high, medium, very_high, low"
+,,high,3,medium,2,very_high,4,good,3,3243,"environment_missing ,high, medium, very_high, good"
+,,high,3,medium,2,very_high,4,excellent,4,3244,"environment_missing ,high, medium, very_high, excellent"
+,,high,3,high,3,low,1,very_low,1,3311,"environment_missing ,high, high, low, very_low"
+,,high,3,high,3,low,1,low,2,3312,"environment_missing ,high, high, low, low"
+,,high,3,high,3,low,1,good,3,3313,"environment_missing ,high, high, low, good"
+,,high,3,high,3,low,1,excellent,4,3314,"environment_missing ,high, high, low, excellent"
+,,high,3,high,3,medium,2,very_low,1,3321,"environment_missing ,high, high, medium, very_low"
+,,high,3,high,3,medium,2,low,2,3322,"environment_missing ,high, high, medium, low"
+,,high,3,high,3,medium,2,good,3,3323,"environment_missing ,high, high, medium, good"
+,,high,3,high,3,medium,2,excellent,4,3324,"environment_missing ,high, high, medium, excellent"
+,,high,3,high,3,high,3,very_low,1,3331,"environment_missing ,high, high, high, very_low"
+,,high,3,high,3,high,3,low,2,3332,"environment_missing ,high, high, high, low"
+,,high,3,high,3,high,3,good,3,3333,"environment_missing ,high, high, high, good"
+,,high,3,high,3,high,3,excellent,4,3334,"environment_missing ,high, high, high, excellent"
+,,high,3,high,3,very_high,4,very_low,1,3341,"environment_missing ,high, high, very_high, very_low"
+,,high,3,high,3,very_high,4,low,2,3342,"environment_missing ,high, high, very_high, low"
+,,high,3,high,3,very_high,4,good,3,3343,"environment_missing ,high, high, very_high, good"
+,,high,3,high,3,very_high,4,excellent,4,3344,"environment_missing ,high, high, very_high, excellent"
+,,high,3,very_high,4,low,1,very_low,1,3411,"environment_missing ,high, very_high, low, very_low"
+,,high,3,very_high,4,low,1,low,2,3412,"environment_missing ,high, very_high, low, low"
+,,high,3,very_high,4,low,1,good,3,3413,"environment_missing ,high, very_high, low, good"
+,,high,3,very_high,4,low,1,excellent,4,3414,"environment_missing ,high, very_high, low, excellent"
+,,high,3,very_high,4,medium,2,very_low,1,3421,"environment_missing ,high, very_high, medium, very_low"
+,,high,3,very_high,4,medium,2,low,2,3422,"environment_missing ,high, very_high, medium, low"
+,,high,3,very_high,4,medium,2,good,3,3423,"environment_missing ,high, very_high, medium, good"
+,,high,3,very_high,4,medium,2,excellent,4,3424,"environment_missing ,high, very_high, medium, excellent"
+,,high,3,very_high,4,high,3,very_low,1,3431,"environment_missing ,high, very_high, high, very_low"
+,,high,3,very_high,4,high,3,low,2,3432,"environment_missing ,high, very_high, high, low"
+,,high,3,very_high,4,high,3,good,3,3433,"environment_missing ,high, very_high, high, good"
+,,high,3,very_high,4,high,3,excellent,4,3434,"environment_missing ,high, very_high, high, excellent"
+,,high,3,very_high,4,very_high,4,very_low,1,3441,"environment_missing ,high, very_high, very_high, very_low"
+,,high,3,very_high,4,very_high,4,low,2,3442,"environment_missing ,high, very_high, very_high, low"
+,,high,3,very_high,4,very_high,4,good,3,3443,"environment_missing ,high, very_high, very_high, good"
+,,high,3,very_high,4,very_high,4,excellent,4,3444,"environment_missing ,high, very_high, very_high, excellent"
+,,very_high,4,low,1,low,1,very_low,1,4111,"environment_missing ,very_high, low, low, very_low"
+,,very_high,4,low,1,low,1,low,2,4112,"environment_missing ,very_high, low, low, low"
+,,very_high,4,low,1,low,1,good,3,4113,"environment_missing ,very_high, low, low, good"
+,,very_high,4,low,1,low,1,excellent,4,4114,"environment_missing ,very_high, low, low, excellent"
+,,very_high,4,low,1,medium,2,very_low,1,4121,"environment_missing ,very_high, low, medium, very_low"
+,,very_high,4,low,1,medium,2,low,2,4122,"environment_missing ,very_high, low, medium, low"
+,,very_high,4,low,1,medium,2,good,3,4123,"environment_missing ,very_high, low, medium, good"
+,,very_high,4,low,1,medium,2,excellent,4,4124,"environment_missing ,very_high, low, medium, excellent"
+,,very_high,4,low,1,high,3,very_low,1,4131,"environment_missing ,very_high, low, high, very_low"
+,,very_high,4,low,1,high,3,low,2,4132,"environment_missing ,very_high, low, high, low"
+,,very_high,4,low,1,high,3,good,3,4133,"environment_missing ,very_high, low, high, good"
+,,very_high,4,low,1,high,3,excellent,4,4134,"environment_missing ,very_high, low, high, excellent"
+,,very_high,4,low,1,very_high,4,very_low,1,4141,"environment_missing ,very_high, low, very_high, very_low"
+,,very_high,4,low,1,very_high,4,low,2,4142,"environment_missing ,very_high, low, very_high, low"
+,,very_high,4,low,1,very_high,4,good,3,4143,"environment_missing ,very_high, low, very_high, good"
+,,very_high,4,low,1,very_high,4,excellent,4,4144,"environment_missing ,very_high, low, very_high, excellent"
+,,very_high,4,medium,2,low,1,very_low,1,4211,"environment_missing ,very_high, medium, low, very_low"
+,,very_high,4,medium,2,low,1,low,2,4212,"environment_missing ,very_high, medium, low, low"
+,,very_high,4,medium,2,low,1,good,3,4213,"environment_missing ,very_high, medium, low, good"
+,,very_high,4,medium,2,low,1,excellent,4,4214,"environment_missing ,very_high, medium, low, excellent"
+,,very_high,4,medium,2,medium,2,very_low,1,4221,"environment_missing ,very_high, medium, medium, very_low"
+,,very_high,4,medium,2,medium,2,low,2,4222,"environment_missing ,very_high, medium, medium, low"
+,,very_high,4,medium,2,medium,2,good,3,4223,"environment_missing ,very_high, medium, medium, good"
+,,very_high,4,medium,2,medium,2,excellent,4,4224,"environment_missing ,very_high, medium, medium, excellent"
+,,very_high,4,medium,2,high,3,very_low,1,4231,"environment_missing ,very_high, medium, high, very_low"
+,,very_high,4,medium,2,high,3,low,2,4232,"environment_missing ,very_high, medium, high, low"
+,,very_high,4,medium,2,high,3,good,3,4233,"environment_missing ,very_high, medium, high, good"
+,,very_high,4,medium,2,high,3,excellent,4,4234,"environment_missing ,very_high, medium, high, excellent"
+,,very_high,4,medium,2,very_high,4,very_low,1,4241,"environment_missing ,very_high, medium, very_high, very_low"
+,,very_high,4,medium,2,very_high,4,low,2,4242,"environment_missing ,very_high, medium, very_high, low"
+,,very_high,4,medium,2,very_high,4,good,3,4243,"environment_missing ,very_high, medium, very_high, good"
+,,very_high,4,medium,2,very_high,4,excellent,4,4244,"environment_missing ,very_high, medium, very_high, excellent"
+,,very_high,4,high,3,low,1,very_low,1,4311,"environment_missing ,very_high, high, low, very_low"
+,,very_high,4,high,3,low,1,low,2,4312,"environment_missing ,very_high, high, low, low"
+,,very_high,4,high,3,low,1,good,3,4313,"environment_missing ,very_high, high, low, good"
+,,very_high,4,high,3,low,1,excellent,4,4314,"environment_missing ,very_high, high, low, excellent"
+,,very_high,4,high,3,medium,2,very_low,1,4321,"environment_missing ,very_high, high, medium, very_low"
+,,very_high,4,high,3,medium,2,low,2,4322,"environment_missing ,very_high, high, medium, low"
+,,very_high,4,high,3,medium,2,good,3,4323,"environment_missing ,very_high, high, medium, good"
+,,very_high,4,high,3,medium,2,excellent,4,4324,"environment_missing ,very_high, high, medium, excellent"
+,,very_high,4,high,3,high,3,very_low,1,4331,"environment_missing ,very_high, high, high, very_low"
+,,very_high,4,high,3,high,3,low,2,4332,"environment_missing ,very_high, high, high, low"
+,,very_high,4,high,3,high,3,good,3,4333,"environment_missing ,very_high, high, high, good"
+,,very_high,4,high,3,high,3,excellent,4,4334,"environment_missing ,very_high, high, high, excellent"
+,,very_high,4,high,3,very_high,4,very_low,1,4341,"environment_missing ,very_high, high, very_high, very_low"
+,,very_high,4,high,3,very_high,4,low,2,4342,"environment_missing ,very_high, high, very_high, low"
+,,very_high,4,high,3,very_high,4,good,3,4343,"environment_missing ,very_high, high, very_high, good"
+,,very_high,4,high,3,very_high,4,excellent,4,4344,"environment_missing ,very_high, high, very_high, excellent"
+,,very_high,4,very_high,4,low,1,very_low,1,4411,"environment_missing ,very_high, very_high, low, very_low"
+,,very_high,4,very_high,4,low,1,low,2,4412,"environment_missing ,very_high, very_high, low, low"
+,,very_high,4,very_high,4,low,1,good,3,4413,"environment_missing ,very_high, very_high, low, good"
+,,very_high,4,very_high,4,low,1,excellent,4,4414,"environment_missing ,very_high, very_high, low, excellent"
+,,very_high,4,very_high,4,medium,2,very_low,1,4421,"environment_missing ,very_high, very_high, medium, very_low"
+,,very_high,4,very_high,4,medium,2,low,2,4422,"environment_missing ,very_high, very_high, medium, low"
+,,very_high,4,very_high,4,medium,2,good,3,4423,"environment_missing ,very_high, very_high, medium, good"
+,,very_high,4,very_high,4,medium,2,excellent,4,4424,"environment_missing ,very_high, very_high, medium, excellent"
+,,very_high,4,very_high,4,high,3,very_low,1,4431,"environment_missing ,very_high, very_high, high, very_low"
+,,very_high,4,very_high,4,high,3,low,2,4432,"environment_missing ,very_high, very_high, high, low"
+,,very_high,4,very_high,4,high,3,good,3,4433,"environment_missing ,very_high, very_high, high, good"
+,,very_high,4,very_high,4,high,3,excellent,4,4434,"environment_missing ,very_high, very_high, high, excellent"
+,,very_high,4,very_high,4,very_high,4,very_low,1,4441,"environment_missing ,very_high, very_high, very_high, very_low"
+,,very_high,4,very_high,4,very_high,4,low,2,4442,"environment_missing ,very_high, very_high, very_high, low"
+,,very_high,4,very_high,4,very_high,4,good,3,4443,"environment_missing ,very_high, very_high, very_high, good"
+,,very_high,4,very_high,4,very_high,4,excellent,4,4444,"environment_missing ,very_high, very_high, very_high, excellent"
