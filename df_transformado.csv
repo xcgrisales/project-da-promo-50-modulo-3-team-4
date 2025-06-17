@@ -89,7 +89,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 38,no,,1187.54,,15,2,life_sciences,88,high,female,148.44,medium,senior,research_director,very_high,,,24938.33,0,,14,"3,0",medium,full_time,1,,3,good,11,2,9,1985,115100.0,yes
 43,no,,1582.77,,12,3,nan,89,low,female,,medium,manager,research_director,medium,,12783.92,33238.2,1,no,11,"3,0",high,full_time,1,,3,,25,3,9,1980,153407.07,yes
 31,no,,444.27,,30,2,nan,90,medium,male,,high,intermediate,manufacturing_director,low,married,3588.33,9329.67,1,no,12,"3,0",medium,nan,1,13,5,very_low,13,3,12,1992,,yes
-50,no,travel_rarely,1758.71,research_&_development,27,4,life_sciences,91,nan,female,,medium,manager,manager,high,marreid,14205.0,36933.0,0,no,15,"3,0",medium,full_time,1,28,2,good,27,15,7,1973,170460.0,yes
+50,no,travel_rarely,1758.71,research_&_development,27,4,life_sciences,91,nan,female,,medium,manager,manager,high,married,14205.0,36933.0,0,no,15,"3,0",medium,full_time,1,28,2,good,27,15,7,1973,170460.0,yes
 35,no,,1032.49,,25,3,technical_degree,92,very_high,female,129.06,medium,senior,manufacturing_director,medium,married,8339.32,21682.23,3,no,16,,low,part_time,0,,2,good,13,4,8,1988,100071.84,no
 47,no,,522.79,,16,4,nan,93,high,female,,very_high,intermediate,manufacturing_director,high,,4222.5,10978.5,1,yes,19,"3,0",high,nan,0,20,3,,19,2,7,1976,,yes
 35,no,,1032.49,research_&_development,25,4,nan,94,high,male,129.06,high,senior,healthcare_representative,high,divorced,8339.32,21682.23,1,yes,11,,high,part_time,1,,3,low,16,10,1,1988,100071.84,yes
@@ -151,7 +151,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 39,no,,1766.66,,13,4,nan,150,high,male,220.83,medium,manager,manager,medium,divorced,,37099.83,6,yes,13,"3,0",very_high,full_time,2,,4,good,19,15,2,1984,171230.0,no
 55,no,travel_rarely,1979.61,,2,2,medical,151,very_high,male,,low,executive,manager,high,,15989.17,41571.83,4,,14,,very_high,full_time,1,23,5,good,19,9,11,1968,191870.0,yes
 51,no,,1582.77,,5,3,life_sciences,152,high,female,197.85,high,manager,manager,medium,,12783.92,33238.2,1,,11,"3,0",medium,full_time,1,,2,good,33,0,10,1972,153407.07,yes
-58,yes,,1032.57,,14,4,medical,153,nan,male,,medium,senior,manufacturing_director,low,marreid,8340.0,21684.0,7,,14,"3,0",very_high,nan,0,,0,low,10,5,9,1965,,yes
+58,yes,,1032.57,,14,4,medical,153,nan,male,,medium,senior,manufacturing_director,low,married,8340.0,21684.0,7,,14,"3,0",very_high,nan,0,,0,low,10,5,9,1965,,yes
 48,no,,1032.49,,4,3,life_sciences,154,very_high,female,129.06,high,senior,manufacturing_director,very_high,single,8339.32,21682.23,1,no,11,"3,0",high,part_time,0,11,2,good,10,0,8,1975,100071.84,yes
 29,no,travel_rarely,824.16,human_resources,17,3,nan,155,medium,female,,medium,senior,human_resources,low,single,6656.67,17307.33,1,,13,"3,0",low,part_time,0,,3,low,10,0,9,1994,79880.0,no
 34,no,,556.26,,3,3,other,156,very_high,female,,low,intermediate,sales_executive,low,single,4492.84,11681.39,3,no,18,,very_high,part_time,0,15,2,good,13,3,12,1989,53914.11,yes
@@ -166,7 +166,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 34,no,travel_rarely,302.2,,19,3,life_sciences,165,medium,male,37.77,medium,entry_level,research_scientist,very_high,married,2440.83,6346.17,1,no,12,"3,0",medium,full_time,0,10,3,good,10,8,7,1989,29290.0,yes
 43,no,,556.26,,2,3,nan,166,very_high,female,,high,intermediate,sales_executive,very_high,,4492.84,11681.39,1,yes,17,"3,0",low,part_time,1,10,3,good,10,8,8,1980,53914.11,no
 58,no,non_travel,1582.77,,2,3,medical,167,medium,female,197.85,high,manager,manager,medium,divorced,12783.92,33238.2,4,no,22,"4,0",very_high,full_time,1,37,0,low,16,14,14,1965,153407.07,yes
-36,no,travel_rarely,556.26,sales,14,4,nan,168,nan,male,,medium,intermediate,sales_executive,high,marreid,4492.84,11681.39,1,yes,13,"3,0",low,part_time,1,10,4,good,10,1,7,1987,53914.11,no
+36,no,travel_rarely,556.26,sales,14,4,nan,168,nan,male,,medium,intermediate,sales_executive,high,married,4492.84,11681.39,1,yes,13,"3,0",low,part_time,1,10,4,good,10,1,7,1987,53914.11,no
 43,no,travel_rarely,1032.49,,11,3,life_sciences,169,low,female,129.06,high,senior,healthcare_representative,high,married,8339.32,21682.23,1,,17,"3,0",medium,part_time,1,10,1,good,10,0,9,1980,100071.84,yes
 55,no,,1973.98,,26,4,human_resources,170,high,female,246.75,very_high,executive,manager,medium,married,,41453.67,4,yes,18,"3,0",low,full_time,1,35,0,good,10,1,4,1968,191324.62,yes
 42,no,,556.26,research_&_development,23,2,nan,171,very_high,female,,medium,intermediate,research_scientist,high,single,,11681.39,1,,12,"3,0",very_high,nan,0,20,2,good,20,3,7,1981,53914.11,yes
@@ -263,7 +263,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 47,no,,1032.49,research_&_development,1,1,nan,262,high,male,,high,senior,research_director,medium,married,8339.32,21682.23,0,no,18,"3,0",low,part_time,2,14,3,very_low,13,5,12,1976,100071.84,yes
 52,no,non_travel,290.04,,29,4,nan,263,low,female,,high,entry_level,sales_representative,very_high,divorced,2342.59,6090.75,2,,15,"3,0",medium,part_time,2,16,3,,9,0,0,1971,28111.13,yes
 49,no,travel_frequently,556.26,,8,1,nan,264,high,female,,medium,intermediate,research_scientist,medium,married,4492.84,11681.39,1,no,23,"4,0",very_high,part_time,1,10,3,good,10,1,7,1974,53914.11,yes
-33,no,travel_frequently,300.13,,19,4,life_sciences,265,nan,male,,high,entry_level,research_scientist,high,marreid,,6302.83,1,,11,"3,0",high,full_time,0,,3,good,8,3,0,1990,29090.0,yes
+33,no,travel_frequently,300.13,,19,4,life_sciences,265,nan,male,,high,entry_level,research_scientist,high,married,,6302.83,1,,11,"3,0",high,full_time,0,,3,good,8,3,0,1990,29090.0,yes
 32,no,,290.04,,2,2,life_sciences,266,very_high,female,,high,entry_level,laboratory_technician,very_high,,2342.59,6090.75,0,,13,"3,0",high,part_time,0,8,2,low,7,3,6,1991,28111.13,yes
 38,no,travel_frequently,982.84,research_&_development,23,3,nan,267,very_high,female,,medium,senior,manufacturing_director,high,,7938.33,20639.67,0,no,21,"4,0",medium,part_time,0,,2,good,9,1,8,1985,95260.0,yes
 36,no,travel_rarely,556.26,research_&_development,27,3,medical,268,high,female,,high,intermediate,healthcare_representative,high,,4492.84,11681.39,6,,13,"3,0",medium,part_time,2,17,3,low,7,7,7,1987,53914.11,yes
@@ -274,7 +274,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 34,yes,travel_frequently,626.68,,7,3,nan,273,low,female,,low,intermediate,laboratory_technician,high,,5061.67,13160.33,1,yes,24,"4,0",very_high,full_time,0,9,3,,9,0,6,1989,60740.0,yes
 36,no,,1032.49,,11,2,technical_degree,274,medium,male,129.06,high,senior,sales_executive,very_high,,8339.32,21682.23,0,no,14,"3,0",high,part_time,1,10,6,good,9,2,8,1987,100071.84,no
 30,no,travel_frequently,290.04,,23,3,nan,275,low,female,36.25,low,entry_level,research_scientist,high,divorced,2342.59,6090.75,1,no,25,"4,0",high,part_time,3,,2,low,10,0,9,1993,28111.13,no
-33,no,non_travel,634.11,,12,2,nan,276,nan,female,79.26,high,intermediate,sales_executive,medium,marreid,,13316.33,0,,13,"3,0",low,full_time,1,,2,excellent,7,0,7,1990,61460.0,yes
+33,no,non_travel,634.11,,12,2,nan,276,nan,female,79.26,high,intermediate,sales_executive,medium,married,,13316.33,0,,13,"3,0",low,full_time,1,,2,excellent,7,0,7,1990,61460.0,yes
 31,yes,,636.79,,6,4,life_sciences,277,medium,female,,low,intermediate,sales_executive,high,married,5143.33,13372.67,4,,18,"3,0",medium,full_time,0,,3,low,7,7,7,1992,61720.0,no
 41,no,travel_rarely,1032.49,,23,1,nan,278,high,female,129.06,high,senior,sales_executive,high,divorced,8339.32,21682.23,3,yes,13,"3,0",high,part_time,1,,2,good,9,0,7,1982,100071.84,no
 26,no,travel_rarely,290.04,,25,1,nan,279,high,male,,high,entry_level,human_resources,high,,2342.59,6090.75,1,,23,"4,0",very_high,nan,1,8,3,good,8,5,7,1997,,yes
@@ -296,7 +296,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 52,no,,1973.98,,2,4,life_sciences,295,low,female,,medium,executive,manager,high,,15943.72,41453.67,1,yes,18,"3,0",very_high,full_time,0,33,2,excellent,33,15,12,1971,191324.62,yes
 40,no,,2005.3,research_&_development,2,2,medical,296,low,female,,high,executive,research_director,high,,16196.67,42111.33,0,no,19,"3,0",very_high,full_time,1,,5,good,21,3,9,1983,194360.0,yes
 38,no,non_travel,556.26,sales,2,2,life_sciences,297,very_high,female,69.53,medium,intermediate,sales_executive,very_high,,4492.84,11681.39,3,no,18,"3,0",very_high,part_time,1,13,0,good,8,7,5,1985,53914.11,yes
-46,no,,1582.77,,27,3,nan,298,nan,male,197.85,low,manager,manager,medium,marreid,12783.92,33238.2,3,yes,12,"3,0",medium,full_time,1,28,2,low,7,7,7,1977,153407.07,no
+46,no,,1582.77,,27,3,nan,298,nan,male,197.85,low,manager,manager,medium,married,12783.92,33238.2,3,yes,12,"3,0",medium,full_time,1,28,2,low,7,7,7,1977,153407.07,no
 45,no,travel_rarely,1582.77,,20,2,medical,299,high,female,,high,manager,healthcare_representative,very_high,married,12783.92,33238.2,0,yes,14,"3,0",medium,nan,0,21,2,good,20,4,10,1978,153407.07,yes
 47,yes,non_travel,1032.49,,10,4,life_sciences,300,low,female,,high,senior,manager,medium,married,8339.32,21682.23,1,,12,"3,0",very_high,nan,1,,2,low,10,9,9,1976,,yes
 35,no,,1032.49,,22,3,life_sciences,301,medium,male,,very_high,senior,manager,medium,divorced,,21682.23,7,,18,,medium,part_time,1,10,6,low,7,6,2,1988,100071.84,no
@@ -414,7 +414,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 39,no,travel_rarely,467.79,,33,2,nan,413,low,female,,high,intermediate,manufacturing_director,high,single,3778.33,9823.67,0,,11,"3,0",low,nan,0,,6,,8,1,7,1984,45340.0,yes
 34,no,,876.98,,9,3,nan,414,very_high,female,,high,senior,healthcare_representative,very_high,,7083.33,18416.67,0,,11,,very_high,part_time,1,10,0,low,9,1,6,1989,85000.0,yes
 38,no,,556.26,,2,2,life_sciences,415,medium,male,,high,intermediate,sales_executive,low,,,11681.39,3,,15,"3,0",very_high,nan,1,11,3,good,7,1,7,1985,53914.11,yes
-36,no,travel_frequently,478.63,sales,12,3,marketing,416,nan,male,,very_high,intermediate,sales_executive,low,marreid,3865.83,10051.17,2,no,16,"3,0",very_high,part_time,1,,2,low,15,6,13,1987,46390.0,yes
+36,no,travel_frequently,478.63,sales,12,3,marketing,416,nan,male,,very_high,intermediate,sales_executive,low,married,3865.83,10051.17,2,no,16,"3,0",very_high,part_time,1,,2,low,15,6,13,1987,46390.0,yes
 35,no,,553.33,,1,3,nan,417,very_high,male,,medium,intermediate,laboratory_technician,very_high,,4469.17,11619.83,0,no,12,"3,0",medium,part_time,1,10,0,good,9,0,0,1988,53630.0,no
 55,yes,,1582.77,,13,4,nan,418,low,female,,very_high,manager,sales_executive,high,,12783.92,33238.2,6,,17,"3,0",high,full_time,0,,2,low,19,3,8,1968,153407.07,yes
 34,no,,556.26,,29,3,nan,419,medium,female,,high,intermediate,laboratory_technician,high,,4492.84,11681.39,4,,13,"3,0",low,part_time,2,10,1,good,8,7,7,1989,53914.11,no
@@ -479,7 +479,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 35,no,,525.98,,9,4,medical,478,medium,female,,high,intermediate,research_scientist,high,,,11045.67,1,no,19,"3,0",medium,part_time,0,10,5,good,10,0,8,1988,50980.0,yes
 33,no,travel_rarely,556.26,,15,2,nan,479,medium,male,,high,intermediate,healthcare_representative,very_high,married,4492.84,11681.39,0,yes,13,,low,part_time,1,,6,good,9,8,1,1990,53914.11,yes
 39,no,travel_rarely,556.26,,24,1,life_sciences,480,low,female,,high,intermediate,research_scientist,very_high,single,4492.84,11681.39,7,no,13,,low,nan,0,,2,good,7,1,7,1984,,no
-36,no,travel_rarely,1032.49,,46,3,nan,481,nan,male,129.06,medium,senior,sales_executive,very_high,marreid,,21682.23,0,no,19,"3,0",high,part_time,2,10,2,good,9,3,4,1987,100071.84,yes
+36,no,travel_rarely,1032.49,,46,3,nan,481,nan,male,129.06,medium,senior,sales_executive,very_high,married,,21682.23,0,no,19,"3,0",high,part_time,2,10,2,good,9,3,4,1987,100071.84,yes
 41,no,travel_rarely,1400.08,,28,4,life_sciences,482,low,male,,medium,manager,manufacturing_director,medium,married,11308.33,29401.67,0,no,23,,high,full_time,1,21,3,good,20,0,10,1982,135700.0,yes
 34,no,,692.51,sales,28,3,marketing,483,very_high,male,,medium,intermediate,sales_executive,high,married,,14542.67,1,no,21,"4,0",very_high,full_time,2,8,2,good,8,1,7,1989,67120.0,no
 38,no,travel_rarely,556.26,,10,2,nan,484,low,male,,high,intermediate,sales_executive,very_high,married,4492.84,11681.39,1,no,11,"3,0",high,nan,1,10,1,good,10,1,9,1985,,yes
@@ -626,7 +626,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 34,no,non_travel,209.34,,26,1,nan,625,low,male,,medium,entry_level,research_scientist,high,divorced,,4396.17,1,no,20,"4,0",high,part_time,3,5,2,good,5,0,0,1989,20290.0,yes
 39,no,travel_rarely,556.26,sales,21,4,nan,626,low,female,,medium,intermediate,sales_executive,very_high,married,,11681.39,3,,12,"3,0",very_high,part_time,2,8,2,excellent,5,1,4,1984,53914.11,no
 37,no,,309.11,,4,1,nan,627,high,female,,high,entry_level,research_scientist,high,married,2496.67,6491.33,7,yes,15,"3,0",very_high,full_time,0,8,2,good,6,1,3,1986,29960.0,no
-33,no,,556.26,sales,41,1,life_sciences,628,nan,female,,high,intermediate,sales_executive,very_high,marreid,4492.84,11681.39,6,,13,"3,0",low,part_time,0,8,2,excellent,5,1,2,1990,53914.11,yes
+33,no,,556.26,sales,41,1,life_sciences,628,nan,female,,high,intermediate,sales_executive,very_high,married,4492.84,11681.39,6,,13,"3,0",low,part_time,0,8,2,excellent,5,1,2,1990,53914.11,yes
 39,no,non_travel,1032.49,research_&_development,25,2,nan,629,high,female,129.06,high,senior,healthcare_representative,high,,8339.32,21682.23,3,no,21,"4,0",medium,part_time,1,13,2,good,6,0,5,1984,100071.84,no
 52,no,travel_rarely,290.04,,8,4,other,630,high,male,,high,entry_level,laboratory_technician,low,married,,6090.75,9,no,13,,high,part_time,0,12,2,very_low,5,0,4,1971,28111.13,yes
 36,no,,957.25,,3,4,nan,631,low,male,,high,intermediate,sales_executive,medium,single,7731.67,20102.33,3,yes,16,"3,0",very_high,full_time,0,15,3,good,5,0,1,1987,92780.0,yes
@@ -637,7 +637,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 33,no,travel_rarely,290.04,research_&_development,4,4,medical,636,low,male,,medium,entry_level,laboratory_technician,medium,,2342.59,6090.75,8,no,11,"3,0",very_high,part_time,0,8,5,good,5,0,2,1990,28111.13,yes
 47,no,travel_rarely,556.26,,14,3,medical,637,high,male,,high,intermediate,sales_executive,high,married,4492.84,11681.39,3,,17,"3,0",high,part_time,1,,4,low,5,1,2,1976,53914.11,yes
 40,yes,,290.04,,9,4,life_sciences,638,very_high,female,36.25,high,entry_level,laboratory_technician,low,single,2342.59,6090.75,3,,14,"3,0",medium,part_time,0,15,3,very_low,5,1,0,1983,28111.13,no
-45,no,travel_rarely,290.04,,49,3,technical_degree,639,nan,female,,high,entry_level,research_scientist,very_high,marreid,2342.59,6090.75,4,no,20,"4,0",very_high,part_time,1,,3,good,5,0,3,1978,28111.13,yes
+45,no,travel_rarely,290.04,,49,3,technical_degree,639,nan,female,,high,entry_level,research_scientist,very_high,married,2342.59,6090.75,4,no,20,"4,0",very_high,part_time,1,,3,good,5,0,3,1978,28111.13,yes
 40,no,travel_rarely,556.26,,9,2,nan,640,low,female,69.53,high,intermediate,sales_executive,low,,,11681.39,0,,12,"3,0",very_high,part_time,0,,5,excellent,8,7,1,1983,53914.11,yes
 29,no,,913.4,,2,1,life_sciences,641,low,female,,high,intermediate,healthcare_representative,very_high,,7377.5,19181.5,1,,19,"3,0",very_high,full_time,1,6,0,excellent,6,1,3,1994,88530.0,yes
 40,no,,556.26,,14,2,life_sciences,642,very_high,male,,high,intermediate,sales_executive,low,married,4492.84,11681.39,1,no,15,"3,0",high,part_time,1,5,2,good,5,1,2,1983,53914.11,yes
@@ -663,7 +663,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 31,no,non_travel,1025.14,,5,3,medical,662,medium,female,,high,intermediate,manufacturing_director,low,,8280.0,21528.0,0,no,19,"3,0",medium,full_time,0,10,2,good,9,1,7,1992,99360.0,yes
 36,yes,travel_rarely,290.04,,9,4,life_sciences,663,high,female,,medium,entry_level,sales_representative,low,single,2342.59,6090.75,7,no,23,"4,0",medium,part_time,0,,4,,5,0,3,1987,28111.13,no
 43,no,travel_rarely,290.04,,2,2,medical,664,very_high,male,36.25,very_high,entry_level,research_scientist,high,,,6090.75,1,no,12,"3,0",very_high,part_time,2,6,3,low,5,1,4,1980,28111.13,no
-33,no,travel_frequently,556.26,,18,3,life_sciences,665,nan,male,,very_high,intermediate,sales_executive,low,marreid,4492.84,11681.39,2,no,19,,low,part_time,2,,3,good,5,1,3,1990,53914.11,no
+33,no,travel_frequently,556.26,,18,3,life_sciences,665,nan,male,,very_high,intermediate,sales_executive,low,married,4492.84,11681.39,2,no,19,,low,part_time,2,,3,good,5,1,3,1990,53914.11,no
 44,no,,562.71,sales,1,5,marketing,666,medium,male,,high,intermediate,sales_executive,low,,,11817.0,5,,21,"4,0",high,full_time,1,9,2,low,4,1,3,1979,54540.0,no
 38,no,,556.26,,29,5,life_sciences,667,very_high,male,,high,intermediate,laboratory_technician,very_high,single,,11681.39,1,no,11,"3,0",very_high,part_time,0,10,2,good,10,9,9,1985,53914.11,yes
 50,no,,1933.49,,7,2,medical,668,medium,male,,medium,executive,research_director,high,divorced,15616.67,40603.33,5,,12,,very_high,nan,1,,2,low,27,13,8,1973,,no
@@ -692,11 +692,11 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 58,no,,556.26,research_&_development,1,4,life_sciences,691,very_high,female,,low,intermediate,healthcare_representative,high,divorced,4492.84,11681.39,2,yes,13,"3,0",very_high,part_time,1,,2,good,5,1,2,1965,53914.11,yes
 27,no,travel_rarely,290.04,,5,3,nan,692,high,male,,high,entry_level,research_scientist,medium,single,,6090.75,1,,12,"3,0",medium,part_time,0,4,2,,4,1,2,1996,28111.13,yes
 54,no,travel_frequently,502.36,,20,4,life_sciences,693,very_high,male,,high,intermediate,research_scientist,high,,4057.5,10549.5,3,,12,,very_high,nan,0,20,4,low,4,0,3,1969,48690.0,no
-40,no,travel_rarely,556.26,,45,2,nan,694,nan,female,,low,intermediate,sales_executive,very_high,marreid,4492.84,11681.39,2,,22,"4,0",high,nan,3,,2,low,4,0,2,1983,,yes
+40,no,travel_rarely,556.26,,45,2,nan,694,nan,female,,low,intermediate,sales_executive,very_high,married,4492.84,11681.39,2,,22,"4,0",high,nan,3,,2,low,4,0,2,1983,,yes
 29,no,non_travel,479.66,,2,3,life_sciences,695,very_high,female,59.96,high,intermediate,sales_executive,high,,3874.17,10072.83,1,,14,,low,part_time,1,,3,low,4,0,2,1994,46490.0,yes
 50,no,travel_rarely,1082.92,,10,3,nan,696,very_high,female,,medium,senior,healthcare_representative,very_high,,8746.67,22741.33,6,no,15,"3,0",very_high,full_time,0,20,2,good,4,1,3,1973,104960.0,no
 24,yes,travel_rarely,290.04,,1,1,technical_degree,697,low,male,36.25,high,entry_level,sales_representative,medium,single,2342.59,6090.75,1,yes,16,"3,0",medium,part_time,0,6,4,good,5,1,4,1999,28111.13,yes
-30,no,,290.04,research_&_development,37,3,nan,698,nan,female,36.25,high,entry_level,laboratory_technician,very_high,marreid,,6090.75,4,,15,"3,0",high,part_time,1,9,3,very_low,5,1,4,1993,28111.13,no
+30,no,,290.04,research_&_development,37,3,nan,698,nan,female,36.25,high,entry_level,laboratory_technician,very_high,married,,6090.75,4,,15,"3,0",high,part_time,1,9,3,very_low,5,1,4,1993,28111.13,no
 34,no,,285.59,,2,4,nan,699,very_high,female,,medium,entry_level,research_scientist,high,,,5997.33,3,,12,"3,0",high,part_time,1,14,3,good,7,5,7,1989,27680.0,yes
 33,yes,travel_rarely,351.62,,10,1,nan,700,low,female,,low,entry_level,laboratory_technician,very_high,divorced,2840.0,7384.0,7,no,13,"3,0",low,full_time,3,8,2,good,4,1,3,1990,34080.0,no
 36,no,non_travel,1032.49,,30,4,medical,701,medium,female,,high,senior,sales_executive,very_high,single,8339.32,21682.23,1,,14,"3,0",very_high,part_time,0,,3,low,10,9,7,1987,100071.84,yes
@@ -732,7 +732,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 37,no,travel_rarely,423.74,,3,3,nan,731,very_high,male,52.97,high,intermediate,healthcare_representative,medium,,3422.5,8898.5,3,no,15,"3,0",low,part_time,0,8,3,low,4,0,1,1986,41070.0,yes
 26,no,,290.04,,26,1,medical,732,low,male,,medium,entry_level,research_scientist,high,,2342.59,6090.75,1,no,13,"3,0",high,part_time,2,,5,good,5,1,3,1997,28111.13,no
 26,no,,290.04,,1,2,medical,733,low,female,36.25,medium,entry_level,laboratory_technician,low,married,2342.59,6090.75,1,no,16,"3,0",low,part_time,2,6,2,good,5,1,3,1997,28111.13,yes
-28,no,,290.04,,42,1,nan,734,nan,female,,medium,entry_level,research_scientist,medium,marreid,2342.59,6090.75,0,no,17,"3,0",low,part_time,0,,2,very_low,5,0,4,1995,28111.13,yes
+28,no,,290.04,,42,1,nan,734,nan,female,,medium,entry_level,research_scientist,medium,married,2342.59,6090.75,0,no,17,"3,0",low,part_time,0,,2,very_low,5,0,4,1995,28111.13,yes
 24,no,,371.12,,24,3,medical,735,very_high,female,46.39,high,entry_level,laboratory_technician,medium,single,2997.5,7793.5,8,no,22,"4,0",very_high,full_time,0,6,2,good,4,1,2,1999,35970.0,no
 30,no,travel_rarely,556.26,,10,3,marketing,736,high,female,69.53,medium,intermediate,sales_executive,high,married,4492.84,11681.39,1,no,18,"3,0",low,part_time,1,,3,good,10,1,4,1993,53914.11,no
 43,yes,,556.26,,9,3,nan,737,low,male,,low,intermediate,sales_executive,high,single,,11681.39,8,no,13,,medium,part_time,0,7,2,low,4,1,3,1980,53914.11,yes
@@ -810,7 +810,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 50,yes,travel_rarely,276.82,,3,2,nan,809,low,female,,medium,entry_level,sales_representative,high,married,,5813.17,1,,14,"3,0",high,part_time,0,3,2,good,3,0,2,1973,26830.0,yes
 35,no,,207.79,,2,3,marketing,810,very_high,male,25.97,high,entry_level,sales_representative,very_high,married,1678.33,4363.67,1,no,13,"3,0",low,part_time,0,2,3,good,2,2,2,1988,20140.0,yes
 28,yes,,355.02,,5,4,nan,811,high,female,,high,entry_level,laboratory_technician,high,single,,7455.5,1,yes,13,,high,nan,0,2,3,low,2,2,2,1995,34410.0,yes
-26,no,,556.26,,22,3,nan,812,nan,male,,medium,intermediate,sales_executive,very_high,marreid,4492.84,11681.39,7,yes,19,"3,0",high,part_time,1,5,2,low,2,0,0,1997,53914.11,no
+26,no,,556.26,,22,3,nan,812,nan,male,,medium,intermediate,sales_executive,very_high,married,4492.84,11681.39,7,yes,19,"3,0",high,part_time,1,5,2,low,2,0,0,1997,53914.11,no
 35,no,travel_rarely,290.04,,31,4,nan,813,high,male,36.25,high,entry_level,laboratory_technician,low,,,6090.75,3,yes,15,,high,part_time,1,4,3,good,2,2,2,1988,28111.13,no
 35,no,,290.04,,31,3,medical,814,medium,female,,high,entry_level,research_scientist,low,married,2342.59,6090.75,4,no,13,"3,0",very_high,nan,1,5,2,low,3,1,2,1988,,yes
 37,no,travel_rarely,1409.78,,20,4,medical,815,low,female,,high,senior,research_director,high,,11386.67,29605.33,4,,13,,low,full_time,0,,3,excellent,5,0,2,1986,136640.0,yes
@@ -830,7 +830,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 25,no,,556.26,sales,28,3,life_sciences,829,low,female,,medium,intermediate,sales_executive,high,,,11681.39,2,,18,"3,0",very_high,part_time,0,,3,good,2,2,2,1998,53914.11,no
 38,no,travel_rarely,445.4,,3,5,technical_degree,830,very_high,male,,high,intermediate,research_scientist,high,,3597.5,9353.5,3,yes,20,"4,0",medium,nan,0,19,2,,3,2,2,1985,43170.0,no
 30,no,travel_rarely,290.04,research_&_development,5,3,technical_degree,831,very_high,male,,high,entry_level,research_scientist,low,divorced,2342.59,6090.75,5,no,14,,very_high,part_time,1,8,3,good,3,2,2,1993,28111.13,yes
-22,no,,290.04,,36,1,medical,832,nan,female,,high,entry_level,research_scientist,very_high,marreid,2342.59,6090.75,1,no,24,"4,0",low,nan,2,2,6,good,2,2,2,2001,,yes
+22,no,,290.04,,36,1,medical,832,nan,female,,high,entry_level,research_scientist,very_high,married,2342.59,6090.75,1,no,24,"4,0",low,nan,2,2,6,good,2,2,2,2001,,yes
 27,no,non_travel,208.83,research_&_development,9,3,medical,833,very_high,female,26.1,high,entry_level,research_scientist,medium,,1686.67,4385.33,6,,18,"3,0",very_high,part_time,1,,1,very_low,2,2,2,1996,20240.0,yes
 28,no,,290.04,research_&_development,21,3,medical,834,high,female,,high,entry_level,research_scientist,very_high,married,2342.59,6090.75,1,no,11,"3,0",high,part_time,1,5,2,very_low,5,0,2,1995,28111.13,yes
 27,no,,315.51,,17,3,nan,835,high,female,,high,entry_level,research_scientist,medium,,,6625.67,0,,16,"3,0",very_high,full_time,1,6,3,low,5,1,1,1996,30580.0,yes
@@ -870,7 +870,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 49,no,,1925.75,,10,4,life_sciences,869,high,male,240.72,high,executive,research_director,low,single,15554.17,40440.83,9,yes,11,"3,0",very_high,full_time,0,,4,good,3,1,2,1974,186650.0,yes
 31,no,travel_frequently,287.75,sales,5,3,nan,870,very_high,male,,high,entry_level,sales_representative,medium,divorced,,6042.83,1,,11,"3,0",high,part_time,1,2,5,low,2,2,2,1992,27890.0,yes
 37,no,travel_frequently,290.04,,9,3,medical,871,medium,female,,high,entry_level,research_scientist,very_high,married,2342.59,6090.75,1,,12,"3,0",high,part_time,3,,3,low,4,1,2,1986,28111.13,no
-31,no,travel_rarely,290.04,research_&_development,11,4,nan,872,nan,female,,high,entry_level,research_scientist,very_high,marreid,2342.59,6090.75,0,,12,"3,0",high,part_time,1,,4,good,5,0,3,1992,28111.13,yes
+31,no,travel_rarely,290.04,research_&_development,11,4,nan,872,nan,female,,high,entry_level,research_scientist,very_high,married,2342.59,6090.75,0,,12,"3,0",high,part_time,1,,4,good,5,0,3,1992,28111.13,yes
 31,no,travel_rarely,661.35,,2,3,human_resources,873,low,female,82.67,medium,intermediate,human_resources,low,,5341.67,13888.33,3,no,12,"3,0",very_high,full_time,0,,1,good,2,1,0,1992,64100.0,no
 31,no,,290.04,research_&_development,2,4,nan,874,high,female,36.25,high,entry_level,research_scientist,very_high,,2342.59,6090.75,0,,18,"3,0",medium,part_time,1,3,2,very_low,2,2,2,1992,28111.13,yes
 52,yes,,509.79,,17,4,medical,875,nan,female,,medium,intermediate,research_scientist,medium,,4117.5,10705.5,2,no,15,,low,part_time,0,11,3,low,8,7,7,1971,49410.0,no
@@ -927,7 +927,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 27,no,,210.99,,3,4,medical,926,low,female,26.37,medium,entry_level,research_scientist,very_high,single,,4430.83,0,,13,"3,0",very_high,part_time,0,5,0,good,4,1,1,1996,20450.0,yes
 23,no,travel_rarely,290.04,,4,3,nan,927,low,female,,very_high,entry_level,research_scientist,low,,2342.59,6090.75,2,,16,"3,0",low,part_time,1,5,3,excellent,3,0,2,2000,28111.13,no
 25,no,,500.5,,8,3,life_sciences,928,very_high,female,,very_high,intermediate,sales_executive,medium,,4042.5,10510.5,0,no,22,"4,0",high,part_time,1,4,4,good,3,1,2,1998,48510.0,no
-48,no,,837.78,,14,1,nan,929,nan,female,104.72,very_high,intermediate,sales_executive,medium,marreid,,17593.33,3,,12,"3,0",very_high,full_time,0,,3,good,2,2,2,1975,81200.0,yes
+48,no,,837.78,,14,1,nan,929,nan,female,104.72,very_high,intermediate,sales_executive,medium,married,,17593.33,3,,12,"3,0",very_high,full_time,0,,3,good,2,2,2,1975,81200.0,yes
 24,yes,travel_rarely,472.23,,3,2,life_sciences,930,low,male,59.03,high,intermediate,sales_executive,high,single,3814.17,9916.83,9,no,14,"3,0",low,part_time,0,,3,good,2,2,0,1999,45770.0,yes
 60,no,travel_rarely,557.66,,16,4,nan,931,low,female,,high,intermediate,sales_executive,low,single,,11710.83,8,no,14,"3,0",very_high,full_time,0,10,1,good,2,2,2,1963,54050.0,no
 50,no,,290.04,,8,4,marketing,932,very_high,female,36.25,high,entry_level,sales_representative,medium,married,2342.59,6090.75,7,no,15,"3,0",very_high,part_time,1,4,2,good,2,2,2,1973,28111.13,yes
@@ -976,7 +976,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 35,no,travel_rarely,556.26,,48,3,nan,975,high,male,,high,intermediate,sales_executive,high,,4492.84,11681.39,1,,16,"3,0",medium,nan,0,5,3,good,5,1,0,1988,,yes
 31,yes,,290.04,,9,2,medical,976,high,female,,medium,entry_level,research_scientist,low,single,,6090.75,0,yes,22,"4,0",low,part_time,0,4,0,good,3,1,2,1992,28111.13,no
 33,no,travel_rarely,356.16,,13,1,life_sciences,977,medium,male,44.52,high,entry_level,research_scientist,very_high,single,2876.67,7479.33,3,,18,"3,0",low,full_time,0,5,4,good,3,0,2,1990,34520.0,no
-27,no,,290.02,,24,4,nan,978,nan,male,,high,entry_level,laboratory_technician,medium,marreid,2342.5,6090.5,9,no,14,"3,0",medium,part_time,1,4,2,good,2,2,2,1996,28110.0,no
+27,no,,290.02,,24,4,nan,978,nan,male,,high,entry_level,laboratory_technician,medium,married,2342.5,6090.5,9,no,14,"3,0",medium,part_time,1,4,2,good,2,2,2,1996,28110.0,no
 30,yes,travel_rarely,290.04,,22,3,nan,979,low,male,36.25,high,entry_level,research_scientist,high,married,,6090.75,4,,11,"3,0",medium,part_time,0,,2,,5,0,1,1993,28111.13,yes
 24,no,,451.6,,17,1,medical,980,very_high,male,,medium,intermediate,manufacturing_director,high,divorced,3647.5,9483.5,1,no,15,"3,0",medium,part_time,2,5,6,good,4,3,2,1999,43770.0,no
 35,yes,travel_rarely,290.04,research_&_development,14,4,other,981,high,female,,medium,entry_level,laboratory_technician,medium,divorced,2342.59,6090.75,1,yes,24,"4,0",very_high,part_time,1,5,2,very_low,4,0,2,1988,28111.13,no
@@ -991,7 +991,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 38,no,travel_frequently,291.06,,3,4,nan,990,high,female,,high,entry_level,research_scientist,high,,2350.83,6112.17,3,no,16,"3,0",low,nan,1,8,2,good,2,2,2,1985,,no
 46,no,,1973.98,,47,4,medical,991,nan,female,,high,executive,research_director,very_high,,,41453.67,9,no,17,"3,0",very_high,full_time,2,23,0,good,2,2,2,1977,191324.62,yes
 20,yes,,290.04,,9,3,marketing,992,very_high,male,,high,entry_level,sales_representative,very_high,single,2342.59,6090.75,1,yes,14,"3,0",medium,part_time,0,2,3,good,2,0,2,2003,28111.13,yes
-30,no,,1027.31,,20,3,other,993,nan,female,,high,intermediate,manufacturing_director,low,marreid,8297.5,21573.5,0,,15,"3,0",high,nan,1,7,1,low,6,0,2,1993,,no
+30,no,,1027.31,,20,3,other,993,nan,female,,high,intermediate,manufacturing_director,low,married,8297.5,21573.5,0,,15,"3,0",high,nan,1,7,1,low,6,0,2,1993,,no
 27,no,non_travel,290.04,,8,5,nan,994,low,female,,low,entry_level,laboratory_technician,high,married,2342.59,6090.75,1,,19,"3,0",very_high,part_time,3,3,4,,3,1,2,1996,28111.13,no
 55,no,,1032.49,,2,1,nan,995,very_high,female,,high,senior,manufacturing_director,medium,married,,21682.23,3,no,18,"3,0",medium,part_time,1,23,4,good,3,1,2,1968,100071.84,yes
 33,no,travel_rarely,1032.49,,5,3,life_sciences,996,very_high,female,,medium,senior,healthcare_representative,very_high,,8339.32,21682.23,4,no,15,"3,0",high,nan,1,,2,good,3,1,2,1990,100071.84,yes
@@ -1026,7 +1026,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 58,no,,290.04,,23,4,life_sciences,1025,low,female,,high,entry_level,research_scientist,high,,2342.59,6090.75,1,,12,"3,0",very_high,part_time,2,,3,good,2,2,2,1965,28111.13,yes
 39,yes,,402.79,,23,3,medical,1026,high,female,,high,entry_level,research_scientist,low,single,3253.33,8458.67,0,,13,"3,0",low,full_time,0,6,2,good,5,0,3,1984,39040.0,no
 30,no,travel_rarely,477.39,,6,3,technical_degree,1027,low,male,,medium,intermediate,laboratory_technician,very_high,married,3855.83,10025.17,0,no,12,"3,0",low,nan,1,10,6,good,9,6,7,1993,46270.0,yes
-50,no,,1582.77,,46,3,life_sciences,1028,nan,male,,high,manager,research_director,low,marreid,12783.92,33238.2,4,,11,"3,0",medium,full_time,0,,2,,3,1,2,1973,153407.07,yes
+50,no,,1582.77,,46,3,life_sciences,1028,nan,male,,high,manager,research_director,low,married,12783.92,33238.2,4,,11,"3,0",medium,full_time,0,,2,,3,1,2,1973,153407.07,yes
 41,no,,556.26,,10,2,medical,1029,high,female,69.53,low,intermediate,sales_executive,medium,single,,11681.39,1,no,13,"3,0",low,part_time,0,19,4,good,19,11,9,1982,53914.11,yes
 31,yes,,237.51,,1,3,nan,1030,very_high,male,,high,entry_level,sales_representative,medium,,1918.33,4987.67,1,yes,11,"3,0",low,part_time,0,,2,excellent,3,2,2,1992,23020.0,no
 44,yes,,290.04,,3,3,life_sciences,1031,low,female,,high,entry_level,laboratory_technician,low,,2342.59,6090.75,4,no,12,,high,nan,0,10,4,excellent,3,1,2,1979,,yes
@@ -1064,14 +1064,14 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 44,no,travel_frequently,1032.49,research_&_development,2,1,nan,1063,medium,female,,high,senior,manufacturing_director,high,single,8339.32,21682.23,5,,18,,medium,nan,0,16,2,low,2,2,2,1979,,yes
 55,no,travel_rarely,556.26,,4,4,life_sciences,1064,very_high,female,,high,intermediate,healthcare_representative,high,married,4492.84,11681.39,0,,16,"3,0",medium,part_time,0,4,2,good,3,1,2,1968,53914.11,yes
 28,no,travel_frequently,505.35,,7,3,life_sciences,1065,high,female,,high,intermediate,sales_executive,low,single,4081.67,10612.33,0,,14,"3,0",very_high,part_time,0,5,5,good,4,1,3,1995,48980.0,yes
-49,no,travel_rarely,556.26,,45,2,medical,1066,nan,male,69.53,medium,intermediate,laboratory_technician,low,marreid,,11681.39,4,,25,"4,0",low,part_time,1,10,3,good,3,1,2,1974,53914.11,yes
+49,no,travel_rarely,556.26,,45,2,medical,1066,nan,male,69.53,medium,intermediate,laboratory_technician,low,married,,11681.39,4,,25,"4,0",low,part_time,1,10,3,good,3,1,2,1974,53914.11,yes
 29,no,travel_frequently,328.1,,2,1,life_sciences,1067,very_high,male,41.01,high,entry_level,laboratory_technician,medium,,2650.0,6890.0,0,no,13,"3,0",high,full_time,3,,3,good,3,0,2,1994,31800.0,no
 32,no,,1160.1,,10,3,nan,1068,high,female,145.01,high,senior,manager,very_high,,,24362.0,2,,25,,medium,full_time,0,10,5,excellent,5,0,0,1991,112440.0,yes
 31,yes,travel_frequently,290.04,,3,3,life_sciences,1069,very_high,male,36.25,high,entry_level,research_scientist,high,,,6090.75,1,no,12,"3,0",low,part_time,0,7,2,,7,7,7,1992,28111.13,yes
 40,no,,419.82,,43,2,life_sciences,1070,very_high,female,,high,intermediate,healthcare_representative,very_high,divorced,3390.83,8816.17,3,,18,"3,0",high,nan,0,8,2,good,2,2,2,1983,,no
 36,no,travel_rarely,290.04,,2,4,life_sciences,1071,high,female,,high,entry_level,sales_representative,very_high,,2342.59,6090.75,3,yes,21,"4,0",very_high,part_time,0,7,3,low,3,1,2,1987,28111.13,no
 33,no,,659.49,,8,4,life_sciences,1072,low,female,82.44,high,intermediate,sales_executive,low,,5326.67,13849.33,2,no,13,"3,0",very_high,full_time,1,,6,very_low,2,2,2,1990,63920.0,no
-30,no,,1032.49,sales,14,4,nan,1073,nan,female,,high,senior,sales_executive,medium,marreid,8339.32,21682.23,3,,12,"3,0",medium,nan,1,9,3,good,4,1,3,1993,,yes
+30,no,,1032.49,sales,14,4,nan,1073,nan,female,,high,senior,sales_executive,medium,married,8339.32,21682.23,3,,12,"3,0",medium,nan,1,9,3,good,4,1,3,1993,,yes
 38,yes,travel_rarely,500.91,,2,3,medical,1074,high,female,,high,intermediate,manufacturing_director,medium,married,4045.83,10519.17,4,,11,"3,0",low,nan,2,,2,good,5,1,4,1985,,no
 48,no,travel_rarely,290.04,research_&_development,15,4,nan,1075,high,male,,high,entry_level,research_scientist,low,married,2342.59,6090.75,8,,12,"3,0",very_high,part_time,1,,3,low,8,7,6,1975,28111.13,yes
 34,no,,556.26,research_&_development,1,4,nan,1076,medium,female,,high,intermediate,research_scientist,very_high,,4492.84,11681.39,9,no,17,"3,0",medium,part_time,1,,3,low,2,2,1,1989,53914.11,yes
@@ -1113,7 +1113,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 24,no,travel_rarely,403.1,,29,1,medical,1112,medium,female,50.39,high,entry_level,laboratory_technician,low,,3255.83,8465.17,1,no,13,"3,0",medium,full_time,3,6,2,excellent,6,1,2,1999,39070.0,yes
 36,yes,,556.26,,13,5,marketing,1113,medium,female,69.53,medium,intermediate,sales_executive,low,,4492.84,11681.39,5,yes,13,"3,0",medium,part_time,3,16,3,good,2,2,2,1987,53914.11,yes
 23,no,,290.04,,4,1,nan,1114,high,male,,high,entry_level,laboratory_technician,medium,single,2342.59,6090.75,1,no,13,"3,0",high,part_time,0,3,3,very_low,3,1,2,2000,28111.13,no
-24,no,,290.04,,35,3,medical,1115,nan,female,,high,entry_level,human_resources,very_high,marreid,2342.59,6090.75,0,no,14,"3,0",very_high,part_time,1,3,2,good,2,2,1,1999,28111.13,no
+24,no,,290.04,,35,3,medical,1115,nan,female,,high,entry_level,human_resources,very_high,married,2342.59,6090.75,0,no,14,"3,0",very_high,part_time,1,3,2,good,2,2,1,1999,28111.13,no
 30,yes,travel_frequently,290.04,,42,3,nan,1116,high,male,,medium,entry_level,human_resources,very_high,divorced,2342.59,6090.75,6,no,11,"3,0",high,nan,1,,0,low,4,1,2,1993,,no
 31,no,,556.26,,5,3,nan,1117,low,female,,high,intermediate,sales_executive,high,,4492.84,11681.39,1,no,19,"3,0",high,nan,1,6,3,good,5,0,2,1992,,yes
 27,no,,355.44,,48,3,nan,1118,nan,male,44.43,high,entry_level,research_scientist,very_high,,2870.83,7464.17,1,,11,"3,0",high,full_time,0,6,5,low,6,1,4,1996,34450.0,no
@@ -1137,7 +1137,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 39,no,travel_rarely,402.59,,19,4,nan,1136,very_high,female,,high,intermediate,research_scientist,very_high,,3251.67,8454.33,8,,14,"3,0",medium,nan,3,7,2,good,2,2,2,1984,39020.0,yes
 55,no,travel_rarely,274.65,,2,4,nan,1137,medium,female,,medium,entry_level,research_scientist,very_high,,2218.33,5767.67,8,,20,"4,0",medium,nan,1,,2,excellent,5,0,4,1968,,no
 29,no,,212.75,,7,3,life_sciences,1138,very_high,female,,high,entry_level,laboratory_technician,low,single,,4467.67,3,,14,"3,0",medium,part_time,0,,2,good,3,1,2,1994,20620.0,yes
-35,no,,556.26,,16,2,other,1139,nan,male,69.53,medium,intermediate,manufacturing_director,medium,marreid,,11681.39,0,,11,"3,0",very_high,part_time,0,4,2,good,3,0,2,1988,53914.11,no
+35,no,,556.26,,16,2,other,1139,nan,male,69.53,medium,intermediate,manufacturing_director,medium,married,,11681.39,0,,11,"3,0",very_high,part_time,0,4,2,good,3,0,2,1988,53914.11,no
 34,yes,non_travel,290.04,,16,4,technical_degree,1140,very_high,female,,low,entry_level,research_scientist,low,,,6090.75,1,,23,"4,0",medium,part_time,1,,2,good,5,3,0,1989,28111.13,yes
 56,yes,travel_rarely,266.91,,24,2,nan,1141,low,female,,high,entry_level,laboratory_technician,very_high,single,2155.83,5605.17,1,no,16,"3,0",very_high,part_time,0,5,3,good,4,1,0,1967,25870.0,yes
 36,no,,568.18,,17,2,marketing,1142,high,female,71.02,medium,intermediate,sales_executive,medium,,4589.17,11931.83,2,,16,"3,0",high,full_time,2,,1,very_low,4,1,3,1987,55070.0,yes
@@ -1160,7 +1160,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 32,no,,234.1,,36,4,nan,1159,medium,female,,medium,entry_level,sales_representative,medium,,1890.83,4916.17,0,,14,"3,0",medium,part_time,1,,2,good,2,2,2,1991,22690.0,yes
 21,no,travel_rarely,290.04,sales,5,1,medical,1160,high,female,,high,entry_level,sales_representative,low,single,2342.59,6090.75,1,,11,"3,0",very_high,part_time,0,,6,good,2,1,2,2002,28111.13,yes
 36,no,,556.26,,13,2,life_sciences,1161,nan,male,69.53,high,intermediate,manufacturing_director,medium,,,11681.39,7,no,13,"3,0",medium,part_time,3,18,3,good,4,0,2,1987,53914.11,yes
-29,yes,travel_rarely,493.9,,38,4,nan,1162,nan,female,,high,entry_level,research_scientist,very_high,marreid,,10371.83,9,,14,"3,0",medium,full_time,3,4,3,excellent,2,2,2,1994,47870.0,yes
+29,yes,travel_rarely,493.9,,38,4,nan,1162,nan,female,,high,entry_level,research_scientist,very_high,married,,10371.83,9,,14,"3,0",medium,full_time,3,4,3,excellent,2,2,2,1994,47870.0,yes
 32,no,travel_rarely,290.04,,2,3,technical_degree,1163,very_high,female,36.25,high,entry_level,research_scientist,low,,,6090.75,1,no,14,"3,0",very_high,part_time,0,,4,good,4,1,2,1991,28111.13,yes
 40,no,travel_rarely,289.82,,2,4,nan,1164,high,female,36.23,medium,entry_level,research_scientist,high,,2340.83,6086.17,2,no,14,"3,0",very_high,part_time,0,8,2,good,2,2,2,1983,28090.0,yes
 35,no,travel_frequently,556.26,,18,4,life_sciences,1165,high,female,,high,intermediate,healthcare_representative,high,,4492.84,11681.39,1,,14,"3,0",very_high,part_time,2,,2,excellent,10,0,2,1988,53914.11,no
@@ -1196,11 +1196,11 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 38,no,,276.92,research_&_development,10,1,nan,1195,high,female,,high,entry_level,research_scientist,high,married,,5815.33,0,,17,"3,0",medium,part_time,1,3,0,low,2,0,2,1985,26840.0,no
 34,no,,556.26,,46,4,nan,1196,nan,female,,very_high,intermediate,sales_executive,very_high,divorced,4492.84,11681.39,0,no,11,"3,0",very_high,nan,1,16,2,low,15,0,9,1989,53914.11,yes
 34,no,travel_rarely,290.04,,10,4,life_sciences,1197,high,male,,high,entry_level,sales_representative,high,married,2342.59,6090.75,1,yes,19,"3,0",very_high,part_time,1,1,2,good,1,0,0,1989,28111.13,no
-50,no,travel_rarely,1984.77,,12,4,medical,1198,nan,female,,high,executive,research_director,high,marreid,16030.83,41680.17,2,,11,"3,0",very_high,full_time,1,29,2,low,8,7,7,1973,192370.0,no
+50,no,travel_rarely,1984.77,,12,4,medical,1198,nan,female,,high,executive,research_director,high,married,16030.83,41680.17,2,,11,"3,0",very_high,full_time,1,29,2,low,8,7,7,1973,192370.0,no
 26,yes,,245.25,,21,3,nan,1199,low,female,30.66,high,entry_level,laboratory_technician,high,,1980.83,5150.17,1,no,20,,high,part_time,1,1,0,low,1,0,0,1997,23770.0,no
 28,no,travel_frequently,290.04,research_&_development,6,3,life_sciences,1200,high,female,,medium,entry_level,research_scientist,high,divorced,2342.59,6090.75,1,yes,14,"3,0",very_high,nan,1,,2,good,3,0,2,1995,,no
 28,yes,,290.04,,12,1,nan,1201,high,male,,high,entry_level,laboratory_technician,very_high,married,,6090.75,1,,11,,very_high,nan,0,,4,low,1,0,0,1995,28111.13,yes
-40,no,,456.24,,29,2,medical,1202,nan,male,57.03,medium,intermediate,research_scientist,very_high,marreid,,9581.0,3,yes,13,"3,0",very_high,part_time,1,16,3,very_low,1,0,0,1983,44220.0,yes
+40,no,,456.24,,29,2,medical,1202,nan,male,57.03,medium,intermediate,research_scientist,very_high,married,,9581.0,3,yes,13,"3,0",very_high,part_time,1,16,3,very_low,1,0,0,1983,44220.0,yes
 19,no,travel_rarely,263.3,,47,2,nan,1203,high,female,,high,entry_level,research_scientist,low,single,2126.67,5529.33,1,no,25,,high,nan,0,1,4,good,1,0,0,2004,,no
 20,no,travel_rarely,276.3,,21,3,marketing,1204,high,female,,very_high,entry_level,sales_representative,very_high,single,2231.67,5802.33,1,,17,"3,0",very_high,part_time,0,2,2,good,2,2,2,2003,26780.0,yes
 40,no,,556.26,,10,3,nan,1205,medium,male,69.53,medium,intermediate,sales_executive,medium,divorced,,11681.39,7,no,12,"3,0",medium,part_time,1,7,2,excellent,5,1,3,1983,53914.11,no
@@ -1231,7 +1231,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 22,no,,290.04,,16,2,nan,1230,very_high,female,,very_high,entry_level,laboratory_technician,very_high,,2342.59,6090.75,1,yes,13,"3,0",medium,nan,2,,2,low,1,0,0,2001,28111.13,no
 21,no,travel_rarely,290.04,,15,2,nan,1231,high,female,,high,entry_level,research_scientist,very_high,single,,6090.75,1,no,14,"3,0",very_high,part_time,0,0,6,good,0,0,0,2002,28111.13,yes
 30,no,travel_rarely,290.04,,9,2,medical,1232,very_high,female,36.25,medium,entry_level,laboratory_technician,high,,2342.59,6090.75,1,,13,"3,0",low,part_time,0,10,5,good,10,1,8,1993,28111.13,no
-39,yes,travel_rarely,215.22,,18,3,technical_degree,1233,nan,female,,high,intermediate,sales_representative,very_high,marreid,,4519.67,3,no,14,"3,0",high,part_time,1,19,6,excellent,1,0,0,1984,20860.0,yes
+39,yes,travel_rarely,215.22,,18,3,technical_degree,1233,nan,female,,high,intermediate,sales_representative,very_high,married,,4519.67,3,no,14,"3,0",high,part_time,1,19,6,excellent,1,0,0,1984,20860.0,yes
 24,yes,travel_rarely,290.04,,1,3,nan,1234,medium,female,36.25,high,entry_level,research_scientist,very_high,,,6090.75,2,yes,16,"3,0",low,part_time,1,6,2,,2,2,0,1999,28111.13,no
 35,no,,201.29,research_&_development,4,2,other,1235,high,female,,high,entry_level,laboratory_technician,very_high,divorced,,4227.17,1,,12,"3,0",high,part_time,1,1,3,good,1,0,0,1988,19510.0,yes
 27,no,,290.04,,2,4,life_sciences,1236,very_high,male,,high,entry_level,laboratory_technician,low,divorced,2342.59,6090.75,1,,13,"3,0",very_high,part_time,1,,6,good,1,0,0,1996,28111.13,no
@@ -1280,7 +1280,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 36,no,,290.04,,18,4,life_sciences,1279,high,female,36.25,very_high,entry_level,laboratory_technician,very_high,married,2342.59,6090.75,4,no,18,"3,0",very_high,part_time,2,4,2,good,1,0,0,1987,28111.13,yes
 18,no,,123.81,,10,3,nan,1280,very_high,male,,medium,entry_level,sales_representative,high,,1000.0,2600.0,1,no,12,"3,0",low,part_time,0,0,2,good,0,0,0,2005,12000.0,no
 39,yes,travel_rarely,540.43,,3,2,nan,1281,very_high,male,,high,intermediate,sales_executive,high,married,4365.0,11349.0,4,yes,18,"3,0",low,nan,0,12,3,low,1,0,0,1984,52380.0,yes
-43,no,travel_rarely,1030.2,research_&_development,15,3,nan,1282,nan,male,,high,senior,healthcare_representative,low,marreid,,21634.17,8,no,16,"3,0",low,part_time,1,,1,low,1,0,0,1980,99850.0,yes
+43,no,travel_rarely,1030.2,research_&_development,15,3,nan,1282,nan,male,,high,senior,healthcare_representative,low,married,,21634.17,8,no,16,"3,0",low,part_time,1,,1,low,1,0,0,1980,99850.0,yes
 47,no,travel_frequently,556.26,,4,1,medical,1283,medium,female,,high,intermediate,sales_representative,high,,,11681.39,3,no,19,"3,0",low,part_time,0,5,3,good,0,0,0,1976,53914.11,no
 42,no,travel_rarely,1649.97,,23,5,nan,1284,low,male,,high,manager,research_director,very_high,single,,34649.33,2,no,14,"3,0",medium,full_time,0,16,2,good,1,0,0,1981,159920.0,no
 32,no,,244.52,,2,3,nan,1285,high,male,30.57,high,entry_level,laboratory_technician,medium,married,1975.0,5135.0,1,no,13,,high,part_time,1,8,4,good,8,0,7,1991,23700.0,yes
@@ -1316,7 +1316,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 30,no,,214.91,,3,3,nan,1315,high,male,26.86,high,entry_level,research_scientist,high,,1735.83,4513.17,1,no,20,"4,0",high,part_time,1,1,2,,1,0,0,1993,20830.0,no
 29,no,,556.26,sales,44,2,medical,1316,medium,male,,high,intermediate,sales_executive,high,,4492.84,11681.39,1,no,14,"3,0",low,part_time,1,,5,low,6,1,2,1994,53914.11,no
 20,yes,,104.1,,10,1,medical,1317,very_high,female,13.01,high,entry_level,research_scientist,high,single,84083.0,2186.17,1,,11,"3,0",very_high,part_time,0,,5,good,1,1,1,2003,10090.0,yes
-35,no,non_travel,290.04,,20,3,nan,1318,nan,female,,medium,entry_level,laboratory_technician,high,marreid,2342.59,6090.75,1,no,18,"3,0",high,nan,2,1,3,good,1,0,0,1988,,no
+35,no,non_travel,290.04,,20,3,nan,1318,nan,female,,medium,entry_level,laboratory_technician,high,married,2342.59,6090.75,1,no,18,"3,0",high,nan,2,1,3,good,1,0,0,1988,,no
 37,no,,290.04,,10,2,life_sciences,1319,very_high,female,,very_high,entry_level,research_scientist,very_high,single,,6090.75,3,no,17,"3,0",low,part_time,0,,2,,1,0,0,1986,28111.13,yes
 38,no,,811.06,,1,3,nan,1320,high,male,101.38,high,senior,manufacturing_director,high,single,6550.83,17032.17,4,yes,14,,very_high,part_time,0,10,4,,1,0,0,1985,78610.0,yes
 29,no,,272.59,,10,3,nan,1321,high,female,,high,entry_level,sales_representative,high,single,2201.67,5724.33,1,no,11,"3,0",high,part_time,0,1,6,,1,0,0,1994,26420.0,no
@@ -1412,7 +1412,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 34,no,,306.63,,13,4,medical,1411,nan,female,,high,entry_level,research_scientist,very_high,single,2476.67,6439.33,1,,13,"3,0",high,full_time,0,,4,,1,0,0,1989,29720.0,no
 26,no,travel_rarely,290.04,,3,3,nan,1412,low,male,,high,entry_level,research_scientist,very_high,,,6090.75,1,,21,"4,0",low,part_time,0,1,5,good,1,0,0,1997,28111.13,yes
 36,no,travel_rarely,703.13,,1,4,life_sciences,1413,medium,male,,high,intermediate,sales_executive,high,single,5679.17,14765.83,6,no,13,"3,0",low,full_time,0,,5,good,1,0,0,1987,68150.0,yes
-50,no,,1973.98,,24,3,marketing,1414,nan,female,,high,executive,manager,high,marreid,15943.72,41453.67,4,yes,16,,high,full_time,1,,2,good,1,0,0,1973,191324.62,no
+50,no,,1973.98,,24,3,marketing,1414,nan,female,,high,executive,manager,high,married,15943.72,41453.67,4,yes,16,,high,full_time,1,,2,good,1,0,0,1973,191324.62,no
 42,no,travel_rarely,1973.98,,9,2,nan,1415,very_high,female,,medium,executive,manager,very_high,,,41453.67,8,no,22,"4,0",very_high,full_time,0,24,2,good,1,0,1,1981,191324.62,no
 35,no,,277.54,,7,2,life_sciences,1416,high,female,,medium,entry_level,laboratory_technician,very_high,,2241.67,5828.33,1,no,18,"3,0",very_high,nan,1,,5,low,1,0,1,1988,,no
 46,no,travel_rarely,1812.47,,1,4,life_sciences,1417,very_high,female,226.56,very_high,manager,manager,low,,,38061.83,1,,15,"3,0",medium,full_time,0,27,5,very_low,26,0,12,1977,175670.0,no
@@ -1428,7 +1428,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 30,no,travel_rarely,295.29,,21,1,nan,1427,medium,female,,high,entry_level,research_scientist,very_high,married,2385.0,6201.0,1,no,12,"3,0",medium,nan,1,10,2,low,10,0,8,1993,,yes
 47,no,non_travel,556.26,,2,4,marketing,1428,high,female,,high,intermediate,sales_executive,medium,,4492.84,11681.39,7,no,11,"3,0",very_high,part_time,1,4,3,very_low,1,0,0,1976,53914.11,yes
 32,yes,travel_rarely,694.88,sales,1,2,nan,1429,low,female,,low,intermediate,sales_executive,medium,single,5612.5,14592.5,6,,15,"3,0",medium,full_time,0,10,2,good,0,0,0,1991,67350.0,no
-45,no,travel_rarely,1006.57,,41,3,life_sciences,1430,nan,male,,low,senior,human_resources,high,marreid,,21138.0,4,,21,"4,0",high,nan,2,9,2,excellent,5,0,3,1978,97560.0,yes
+45,no,travel_rarely,1006.57,,41,3,life_sciences,1430,nan,male,,low,senior,human_resources,high,married,,21138.0,4,,21,"4,0",high,nan,2,9,2,excellent,5,0,3,1978,97560.0,yes
 34,no,,290.04,,2,4,nan,1431,very_high,female,,very_high,entry_level,research_scientist,very_high,married,2342.59,6090.75,0,yes,14,"3,0",low,part_time,3,6,3,good,5,1,2,1989,28111.13,no
 33,yes,,1032.49,,16,3,nan,1432,low,male,,high,senior,sales_executive,low,,8339.32,21682.23,2,yes,20,"4,0",high,part_time,0,,2,low,0,0,0,1990,100071.84,yes
 31,yes,travel_rarely,1032.49,,16,4,nan,1433,low,female,,high,senior,sales_executive,high,married,8339.32,21682.23,2,,13,"3,0",low,nan,3,,2,good,1,0,0,1992,,yes
@@ -1503,7 +1503,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 35,no,non_travel,556.26,research_&_development,2,2,medical,1502,medium,female,,high,intermediate,manufacturing_director,very_high,divorced,4492.84,11681.39,2,no,14,"3,0",high,part_time,1,15,6,good,7,1,7,1988,53914.11,no
 30,no,,997.39,,47,3,medical,1503,nan,male,,high,senior,manufacturing_director,high,single,8055.83,20945.17,9,no,14,"3,0",medium,part_time,0,9,3,good,7,0,2,1993,96670.0,no
 46,yes,travel_rarely,556.26,,21,2,medical,1504,very_high,male,69.53,high,intermediate,healthcare_representative,medium,married,4492.84,11681.39,4,no,22,"4,0",very_high,part_time,1,13,2,excellent,9,3,7,1977,53914.11,no
-45,no,non_travel,531.76,,48,4,nan,1505,nan,male,,high,intermediate,sales_executive,high,marreid,4295.0,11167.0,4,,22,"4,0",medium,nan,2,10,3,excellent,8,5,7,1978,,yes
+45,no,non_travel,531.76,,48,4,nan,1505,nan,male,,high,intermediate,sales_executive,high,married,4295.0,11167.0,4,,22,"4,0",medium,nan,2,10,3,excellent,8,5,7,1978,,yes
 43,no,travel_frequently,585.52,,2,4,life_sciences,1506,low,female,,high,intermediate,sales_executive,very_high,married,4729.17,12295.83,1,,20,"4,0",high,nan,1,7,5,good,7,7,7,1980,,no
 46,yes,,754.62,,10,3,life_sciences,1507,high,male,,high,senior,sales_executive,medium,,6095.0,15847.0,5,,21,"4,0",high,part_time,3,14,2,good,8,0,7,1977,73140.0,no
 40,no,travel_rarely,1582.77,research_&_development,1,4,nan,1508,low,female,,high,manager,manager,low,,12783.92,33238.2,2,,11,"3,0",low,full_time,1,22,3,,19,11,16,1983,153407.07,yes
@@ -1544,7 +1544,7 @@ age,attrition,business_travel,daily_rate,department,distance_from_home,education
 47,yes,non_travel,1032.49,,29,4,life_sciences,1543,low,female,129.06,high,senior,manager,medium,married,,21682.23,1,,12,"3,0",very_high,part_time,1,,2,low,10,9,9,1976,100071.84,no
 35,no,,1032.49,,38,3,life_sciences,1544,medium,male,,very_high,senior,manager,medium,divorced,8339.32,21682.23,7,,18,,medium,nan,1,10,6,low,7,6,2,1988,,yes
 29,no,travel_frequently,556.26,,2,2,nan,1545,medium,female,69.53,high,intermediate,sales_executive,very_high,single,4492.84,11681.39,1,,18,"3,0",low,part_time,0,,3,,10,0,9,1994,53914.11,yes
-55,no,travel_rarely,556.26,research_&_development,17,2,technical_degree,1546,nan,female,,high,intermediate,laboratory_technician,very_high,marreid,4492.84,11681.39,3,,19,,very_high,nan,1,12,4,good,10,0,8,1968,,yes
+55,no,travel_rarely,556.26,research_&_development,17,2,technical_degree,1546,nan,female,,high,intermediate,laboratory_technician,very_high,married,4492.84,11681.39,3,,19,,very_high,nan,1,12,4,good,10,0,8,1968,,yes
 26,yes,travel_rarely,601.3,,4,4,nan,1547,very_high,female,,medium,intermediate,sales_executive,very_high,single,,12627.33,1,,12,"3,0",medium,full_time,0,,0,,8,7,4,1997,58280.0,yes
 31,no,travel_rarely,556.26,,7,3,technical_degree,1548,medium,female,,very_high,intermediate,sales_executive,very_high,,,11681.39,4,,11,"3,0",medium,part_time,1,10,3,low,8,7,7,1992,53914.11,no
 43,no,travel_frequently,253.29,,10,4,life_sciences,1549,high,male,,high,entry_level,laboratory_technician,very_high,,2045.83,5319.17,0,no,19,"3,0",low,part_time,0,,5,good,8,1,7,1980,24550.0,no
