@@ -46,6 +46,44 @@ def nulls(df,count=0,share=0):
     
     return nulls_list
 
+# Transform
+def transform(df):
+    # Rename columns for consistency
+    df.columns = df.columns.str.lower().str.replace(' ', '_')
+
+    # Drop redundant or irrelevant columns
+    df = df.drop(columns=['numberchildren', 'over18', 'yearsincurrentrole'], errors='ignore')
+
+    # Map numeric gender values to labels
+    if 'gender' in df.columns:
+        gender_map = {0: 'Female', 1: 'Male'}
+        df['gender'] = df['gender'].map(gender_map).fillna(df['gender'])
+
+    # Convert negative distances to absolute values
+    if 'distancefromhome' in df.columns:
+        df['distancefromhome'] = df['distancefromhome'].abs()
+
+    # Fix typos in marital status
+    if 'maritalstatus' in df.columns:
+        df['maritalstatus'] = df['maritalstatus'].replace({'Marreid': 'Married'})
+
+    # Convert selected columns to numeric if needed
+    for col in ['dailyrate', 'monthlyrate', 'monthlyincome', 'hourlyrate']:
+        if col in df.columns:
+            df[col] = pd.to_numeric(df[col], errors='coerce')
+
+    # Normalize text values in key categorical columns
+    cat_cols = ['jobrole', 'department', 'educationfield', 'overtime']
+    for col in cat_cols:
+        if col in df.columns:
+            df[col] = df[col].astype(str).str.strip().str.lower()
+
+    # Convert binary columns to lowercase strings
+    for col in ['attrition', 'remotework']:
+        if col in df.columns:
+            df[col] = df[col].astype(str).str.lower()
+
+    return df
 
 #%%
 file = 'spaces_hr_raw_data.csv'
