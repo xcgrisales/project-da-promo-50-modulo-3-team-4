@@ -86,29 +86,34 @@ Tras el análisis de los datos, se han identificado una serie de patrones clave 
 ### 🔹 Rotación del talento
 
 **La satisfacción laboral predice la rotación:** cuanto menor es la satisfacción, mayor es la probabilidad de abandono.
+
 **Factores como el salario, la distancia al trabajo y las participación de capital** en la empresa también muestran correlación con la permanencia.
+
 El **exceso de horas extra**, la falta de **equilibrio vida-trabajo** y una percepción negativa del entorno laboral son elementos clave que impulsan la rotación.
 
 ### 🔹 Satisfacción laboral
 
-**Las variables de ingreso y educación** no presentan una relación tan sólida con los niveles de satisfacción laboral, aunque la sugieren
+**Las variables de ingreso y educación** no presentan una relación tan sólida con los niveles de satisfacción laboral, aunque la sugieren.
+
 **Las categorías profesionales** parecen influir en las motivaciones para abandonar:
-    - *Entry-level:* menor satisfacción al abandonar.
-    - *Alta dirección:* mayor satisfacción, pero aún así abandono.
+- *Entry-level:* menor satisfacción al abandonar.
+- *Alta dirección:* mayor satisfacción, pero aún así abandono.
+
 La **satisfacción laboral** se mantiene y aumenta con la satisfacción con el ambiente
 Se identificó un **desajuste entre involucramiento y satisfacción** en quienes abandonan, así como contradicciones entre la satisfacción y bajo equilibrio personal-laboral.
 
 ---
 
-### 🚀 Próximos pasos recomendados
+## 🚀 Próximos pasos recomendados
 
 1. **Aplicar análisis causales más robustos**, que permitan entender mejor la raíz de ciertos comportamientos.
 2. **Lanzar una encuesta interna** para explorar aspectos no observables en los datos ya existentes:
-   - ¿El teletrabajo genera desconexión con la empresa?
-   - ¿Hay burnout encubierto entre empleadas muy involucradas?
-   - ¿Por qué quienes declaran bajo equilibrio también dicen estar satisfechas?
-3. **Reforzar el onboarding** y las condiciones laborales en las primeras etapas, clave para la retención a largo plazo.
-4. **Comparar los resultados con otras empresas del sector** para detectar ventajas competitivas e identificar áreas de mejora.
+    - ¿El teletrabajo genera desconexión con la empresa?
+    - ¿Hay burnout encubierto entre empleadas muy involucradas?
+    - ¿Por qué quienes declaran bajo equilibrio también dicen estar satisfechas?
+  
+4. **Reforzar el onboarding** y las condiciones laborales en las primeras etapas, clave para la retención a largo plazo.
+5. **Comparar los resultados con otras empresas del sector** para detectar ventajas competitivas e identificar áreas de mejora.
 
 ---
 
