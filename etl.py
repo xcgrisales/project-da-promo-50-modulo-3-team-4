@@ -52,46 +52,70 @@ def transform(df):
     df.columns = df.columns.str.lower().str.replace(' ', '_')
 
     # Drop redundant or irrelevant columns
-    df = df.drop(columns=['numberchildren', 'over18', 'yearsincurrentrole'], errors='ignore')
+    df = df.drop(columns=['numberchildren', 'over18','yearsincurrentrole', 'Unnamed: 0',
+                          'employeecount'], inplace=True, errors='ignore')
 
-    # Map numeric gender values to labels
-    if 'gender' in df.columns:
-        gender_map = {0: 'Female', 1: 'Male'}
-        df['gender'] = df['gender'].map(gender_map).fillna(df['gender'])
+    # Words to numbers
+    words_to_numbers = {'eighteen': 18,'nineteen': 19,'twenty': 20,'twenty-one': 21,'twenty-two': 22,
+                        'twenty-three': 23, 'twenty-four': 24,'twenty-five': 25,'twenty-six': 26,
+                        'twenty-seven': 27,'twenty-eight': 28,'twenty-nine': 29,'thirty': 30,
+                        'thirty-one': 31,'thirty-two': 32,'thirty-three': 33,'thirty-four': 34,
+                        'thirty-five': 35,'thirty-six': 36,'thirty-seven': 37,'forty-seven': 47,
+                        'fifty-two': 52,'fifty-five': 55,'fifty-eight': 58}
+    df['age'] = df['age'].replace(words_to_numbers)
+    df['age'] = pd.to_numeric(df['age'], errors='coerce')
+    
+    # Attrition
+    df['attrition'] = df['attrition'].str.lower()
 
-    # Convert negative distances to absolute values
-    if 'distancefromhome' in df.columns:
-        df['distancefromhome'] = df['distancefromhome'].abs()
+    #Business travel
+    df['businesstravel'] = df['businesstravel'].str.replace(' ', '_', regex=False)
+    df['businesstravel'] = df['businesstravel'].str.replace('-', '_', regex=False).str.lower()
+    
+    # Daily rate
+    # reduce to two decimals
+    df['dailyrate'] = df['dailyrate'].round(2)
 
-    # Fix typos in marital status
-    if 'maritalstatus' in df.columns:
-        df['maritalstatus'] = df['maritalstatus'].replace({'Marreid': 'Married'})
+    # Department
+    df['department'] = df['department'].apply(
+    lambda x: x.strip().replace(' ', '_').lower() if pd.notna(x) else x)
 
-    # Convert selected columns to numeric if needed
-    for col in ['dailyrate', 'monthlyrate', 'monthlyincome', 'hourlyrate']:
-        if col in df.columns:
-            df[col] = pd.to_numeric(df[col], errors='coerce')
+    # Distance
+    # From negative to positives
+    df['distancefromhome'] = df['distancefromhome'].abs()
 
-    # Normalize text values in key categorical columns
-    cat_cols = ['jobrole', 'department', 'educationfield', 'overtime']
-    for col in cat_cols:
-        if col in df.columns:
-            df[col] = df[col].astype(str).str.strip().str.lower()
+    # Education Field
+    df['educationfield'] = (
+    df['educationfield']
+    .astype(str)                      
+    .str.strip('_')                   
+    .str.replace('_', ' ', regex=False)  
+    .str.strip()                      
+    .str.lower()                     
+    .str.replace(' ', '_', regex=False))
 
-    # Convert binary columns to lowercase strings
-    for col in ['attrition', 'remotework']:
-        if col in df.columns:
-            df[col] = df[col].astype(str).str.lower()
+    # Dropping duplicates from 'employees' 
+    df = df.drop_duplicates()
+    # checking they are unique
+    df['employeenumber'].is_unique
 
-    return df
+    # Environment satisfaction
+    df['environmentsatisfaction'] = df['environmentsatisfaction'].apply(lambda x: np.nan if x>4 else x)
 
-#%%
-file = 'spaces_hr_raw_data.csv'
-df = extract(file)
+    satisfaction_map = {1: 'Low',
+                        2: 'Medium',
+                        3: 'High',
+                        4: 'Very High'}
+    df['environmentsatisfaction'] = df['environmentsatisfaction'].replace(satisfaction_map)
 
-shape(df)
-nulls(df,1,1)
+    # Gender
+    gender_map = {0: 'Female',
+                  1: 'Male'}
+    
+    df['gender'] = df['gender'].replace(gender_map)
 
-df = df.drop(columns=['numberchildren', 'over18', 'yearsincurrentrole'])
-df.shape
+    df['gender'] = df['gender'].astype(str).str.lower()
+
+    # 
+
 # %%
